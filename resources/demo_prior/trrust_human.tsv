@@ -1,0 +1,7 @@
+source_genesymbol	target_genesymbol	references	sources
+STAT3	CXCL8	demo_ref	TRRUST
+STAT3	IL6	demo_ref	TRRUST
+MYC	MKI67	demo_ref	TRRUST
+JUN	VIM	demo_ref	TRRUST
+JUN	COL1A1	demo_ref	TRRUST
+MYC	CD44	demo_ref	TRRUST

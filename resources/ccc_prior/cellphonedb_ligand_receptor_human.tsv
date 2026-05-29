@@ -1,0 +1,2811 @@
+ligand	receptor	sources	references	database	evidence
+CDH1	ITGA2	PMID:12392763	PMID:12392763	CellPhoneDB	curated
+CDH1	ITGB1	PMID:12392763	PMID:12392763	CellPhoneDB	curated
+CDH1	ITGAE	uniprot		CellPhoneDB	curated
+CDH1	ITGB7	uniprot		CellPhoneDB	curated
+CDH1	KLRG1	PMC3030123		CellPhoneDB	curated
+CDH2	FCER2	Shilts screen - VALIDATED		CellPhoneDB	curated
+CADM1	NECTIN3	uniprot		CellPhoneDB	curated
+CADM3	CADM1	uniprot		CellPhoneDB	curated
+CADM3	CADM4	uniprot		CellPhoneDB	curated
+CADM3	EPB41L1	uniprot		CellPhoneDB	curated
+CADM3	NECTIN3	uniprot		CellPhoneDB	curated
+CEACAM1	CD209	PMID:16282604;PMID:16246332	PMID:16282604;PMID:16246332	CellPhoneDB	curated
+CEACAM1	CEACAM6	PMID:21982860	PMID:21982860	CellPhoneDB	curated
+CEACAM1	CEACAM8	PMID:24743304	PMID:24743304	CellPhoneDB	curated
+CEACAM1	SELE	PMID:1378450	PMID:1378450	CellPhoneDB	curated
+CEACAM5	CD1D	PMID:24104458	PMID:24104458	CellPhoneDB	curated
+CEACAM5	CD8A	PMID:24104458	PMID:24104458	CellPhoneDB	curated
+CEACAM5	CEACAM1	Induces_NK_Cell_Inhibition._Reviewed_in_PMID:24987108		CellPhoneDB	curated
+CEACAM5	CEACAM6	uniprot		CellPhoneDB	curated
+CEACAM8	CEACAM6	PMID:11590190	PMID:11590190	CellPhoneDB	curated
+COL10A1	ITGA1	uniprot		CellPhoneDB	curated
+COL10A1	ITGB1	uniprot		CellPhoneDB	curated
+COL10A1	ITGA10	uniprot		CellPhoneDB	curated
+COL10A1	ITGA11	uniprot		CellPhoneDB	curated
+COL10A1	ITGA2	uniprot		CellPhoneDB	curated
+COL11A1	ITGA1	uniprot		CellPhoneDB	curated
+COL11A1	ITGB1	uniprot		CellPhoneDB	curated
+COL11A1	ITGA10	uniprot		CellPhoneDB	curated
+COL11A1	ITGA11	uniprot		CellPhoneDB	curated
+COL11A1	ITGA2	uniprot		CellPhoneDB	curated
+COL11A2	ITGA1	uniprot		CellPhoneDB	curated
+COL11A2	ITGB1	uniprot		CellPhoneDB	curated
+COL11A2	ITGA10	uniprot		CellPhoneDB	curated
+COL11A2	ITGA11	uniprot		CellPhoneDB	curated
+COL11A2	ITGA2	uniprot		CellPhoneDB	curated
+COL12A1	ITGA1	uniprot		CellPhoneDB	curated
+COL12A1	ITGB1	uniprot		CellPhoneDB	curated
+COL12A1	ITGA10	uniprot		CellPhoneDB	curated
+COL12A1	ITGA11	uniprot		CellPhoneDB	curated
+COL12A1	ITGA2	uniprot		CellPhoneDB	curated
+COL13A1	ITGA1	uniprot		CellPhoneDB	curated
+COL13A1	ITGB1	uniprot		CellPhoneDB	curated
+COL13A1	ITGA10	uniprot		CellPhoneDB	curated
+COL13A1	ITGA11	uniprot		CellPhoneDB	curated
+COL13A1	ITGA2	uniprot		CellPhoneDB	curated
+COL14A1	ITGA1	uniprot		CellPhoneDB	curated
+COL14A1	ITGB1	uniprot		CellPhoneDB	curated
+COL14A1	ITGA10	uniprot		CellPhoneDB	curated
+COL14A1	ITGA11	uniprot		CellPhoneDB	curated
+COL14A1	ITGA2	uniprot		CellPhoneDB	curated
+COL15A1	ITGA1	uniprot		CellPhoneDB	curated
+COL15A1	ITGB1	uniprot		CellPhoneDB	curated
+COL15A1	ITGA10	uniprot		CellPhoneDB	curated
+COL15A1	ITGA11	uniprot		CellPhoneDB	curated
+COL15A1	ITGA2	uniprot		CellPhoneDB	curated
+COL16A1	ITGA1	uniprot		CellPhoneDB	curated
+COL16A1	ITGB1	uniprot		CellPhoneDB	curated
+COL16A1	ITGA10	uniprot		CellPhoneDB	curated
+COL16A1	ITGA11	uniprot		CellPhoneDB	curated
+COL16A1	ITGA2	uniprot		CellPhoneDB	curated
+COL17A1	ITGA1	uniprot		CellPhoneDB	curated
+COL17A1	ITGB1	uniprot		CellPhoneDB	curated
+COL17A1	ITGA10	uniprot		CellPhoneDB	curated
+COL17A1	ITGA11	uniprot		CellPhoneDB	curated
+COL17A1	ITGA2	uniprot		CellPhoneDB	curated
+COL18A1	ITGA1	uniprot		CellPhoneDB	curated
+COL18A1	ITGB1	uniprot		CellPhoneDB	curated
+COL18A1	ITGA10	uniprot		CellPhoneDB	curated
+COL18A1	ITGA11	uniprot		CellPhoneDB	curated
+COL18A1	ITGA2	uniprot		CellPhoneDB	curated
+COL19A1	ITGA1	uniprot		CellPhoneDB	curated
+COL19A1	ITGB1	uniprot		CellPhoneDB	curated
+COL19A1	ITGA10	uniprot		CellPhoneDB	curated
+COL19A1	ITGA11	uniprot		CellPhoneDB	curated
+COL19A1	ITGA2	uniprot		CellPhoneDB	curated
+COL1A1	ITGA1	uniprot		CellPhoneDB	curated
+COL1A1	ITGB1	uniprot		CellPhoneDB	curated
+COL1A1	ITGA10	uniprot		CellPhoneDB	curated
+COL1A1	ITGA11	uniprot		CellPhoneDB	curated
+COL1A1	ITGA2	uniprot		CellPhoneDB	curated
+COL1A2	ITGA1	uniprot		CellPhoneDB	curated
+COL1A2	ITGB1	uniprot		CellPhoneDB	curated
+COL1A2	ITGA10	uniprot		CellPhoneDB	curated
+COL1A2	ITGA11	uniprot		CellPhoneDB	curated
+COL1A2	ITGA2	uniprot		CellPhoneDB	curated
+COL20A1	ITGA1	uniprot		CellPhoneDB	curated
+COL20A1	ITGB1	uniprot		CellPhoneDB	curated
+COL20A1	ITGA10	uniprot		CellPhoneDB	curated
+COL20A1	ITGA11	uniprot		CellPhoneDB	curated
+COL20A1	ITGA2	uniprot		CellPhoneDB	curated
+COL21A1	ITGA1	uniprot		CellPhoneDB	curated
+COL21A1	ITGB1	uniprot		CellPhoneDB	curated
+COL21A1	ITGA10	uniprot		CellPhoneDB	curated
+COL21A1	ITGA11	uniprot		CellPhoneDB	curated
+COL21A1	ITGA2	uniprot		CellPhoneDB	curated
+COL22A1	ITGA1	uniprot		CellPhoneDB	curated
+COL22A1	ITGB1	uniprot		CellPhoneDB	curated
+COL22A1	ITGA10	uniprot		CellPhoneDB	curated
+COL22A1	ITGA11	uniprot		CellPhoneDB	curated
+COL22A1	ITGA2	uniprot		CellPhoneDB	curated
+COL24A1	ITGA1	uniprot		CellPhoneDB	curated
+COL24A1	ITGB1	uniprot		CellPhoneDB	curated
+COL24A1	ITGA10	uniprot		CellPhoneDB	curated
+COL24A1	ITGA11	uniprot		CellPhoneDB	curated
+COL24A1	ITGA2	uniprot		CellPhoneDB	curated
+COL26A1	ITGA1	uniprot		CellPhoneDB	curated
+COL26A1	ITGB1	uniprot		CellPhoneDB	curated
+COL26A1	ITGA10	uniprot		CellPhoneDB	curated
+COL26A1	ITGA11	uniprot		CellPhoneDB	curated
+COL26A1	ITGA2	uniprot		CellPhoneDB	curated
+COL27A1	ITGA1	uniprot		CellPhoneDB	curated
+COL27A1	ITGB1	uniprot		CellPhoneDB	curated
+COL27A1	ITGA10	uniprot		CellPhoneDB	curated
+COL27A1	ITGA11	uniprot		CellPhoneDB	curated
+COL27A1	ITGA2	uniprot		CellPhoneDB	curated
+COL28A1	ITGA1	uniprot		CellPhoneDB	curated
+COL28A1	ITGB1	uniprot		CellPhoneDB	curated
+COL28A1	ITGA10	uniprot		CellPhoneDB	curated
+COL28A1	ITGA11	uniprot		CellPhoneDB	curated
+COL28A1	ITGA2	uniprot		CellPhoneDB	curated
+COL2A1	ITGA1	uniprot		CellPhoneDB	curated
+COL2A1	ITGB1	uniprot		CellPhoneDB	curated
+COL2A1	ITGA10	uniprot		CellPhoneDB	curated
+COL2A1	ITGA11	uniprot		CellPhoneDB	curated
+COL2A1	ITGA2	uniprot		CellPhoneDB	curated
+COL3A1	ADGRG1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+COL3A1	ITGA1	uniprot		CellPhoneDB	curated
+COL3A1	ITGB1	uniprot		CellPhoneDB	curated
+COL3A1	ITGA10	uniprot		CellPhoneDB	curated
+COL3A1	ITGA11	uniprot		CellPhoneDB	curated
+COL3A1	ITGA2	uniprot		CellPhoneDB	curated
+COL4A1	ADGRG6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+COL4A1	ITGA1	uniprot		CellPhoneDB	curated
+COL4A1	ITGB1	uniprot		CellPhoneDB	curated
+COL4A1	ITGA10	uniprot		CellPhoneDB	curated
+COL4A1	ITGA11	uniprot		CellPhoneDB	curated
+COL4A1	ITGA2	uniprot		CellPhoneDB	curated
+COL4A2	ADGRG6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+COL4A2	ITGA1	uniprot		CellPhoneDB	curated
+COL4A2	ITGB1	uniprot		CellPhoneDB	curated
+COL4A2	ITGA10	uniprot		CellPhoneDB	curated
+COL4A2	ITGA11	uniprot		CellPhoneDB	curated
+COL4A2	ITGA2	uniprot		CellPhoneDB	curated
+COL4A3	ADGRG6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+COL4A3	ITGA1	uniprot		CellPhoneDB	curated
+COL4A3	ITGB1	uniprot		CellPhoneDB	curated
+COL4A3	ITGA10	uniprot		CellPhoneDB	curated
+COL4A3	ITGA11	uniprot		CellPhoneDB	curated
+COL4A3	ITGA2	uniprot		CellPhoneDB	curated
+COL4A4	ADGRG6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+COL4A4	ITGA1	uniprot		CellPhoneDB	curated
+COL4A4	ITGB1	uniprot		CellPhoneDB	curated
+COL4A4	ITGA10	uniprot		CellPhoneDB	curated
+COL4A4	ITGA11	uniprot		CellPhoneDB	curated
+COL4A4	ITGA2	uniprot		CellPhoneDB	curated
+COL4A5	ADGRG6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+COL4A5	ITGA1	uniprot		CellPhoneDB	curated
+COL4A5	ITGB1	uniprot		CellPhoneDB	curated
+COL4A5	ITGA10	uniprot		CellPhoneDB	curated
+COL4A5	ITGA11	uniprot		CellPhoneDB	curated
+COL4A5	ITGA2	uniprot		CellPhoneDB	curated
+COL4A6	ADGRG6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+COL4A6	ITGA1	uniprot		CellPhoneDB	curated
+COL4A6	ITGB1	uniprot		CellPhoneDB	curated
+COL4A6	ITGA10	uniprot		CellPhoneDB	curated
+COL4A6	ITGA11	uniprot		CellPhoneDB	curated
+COL4A6	ITGA2	uniprot		CellPhoneDB	curated
+COL5A1	ITGA1	uniprot		CellPhoneDB	curated
+COL5A1	ITGB1	uniprot		CellPhoneDB	curated
+COL5A1	ITGA10	uniprot		CellPhoneDB	curated
+COL5A1	ITGA11	uniprot		CellPhoneDB	curated
+COL5A1	ITGA2	uniprot		CellPhoneDB	curated
+COL5A2	ITGA1	uniprot		CellPhoneDB	curated
+COL5A2	ITGB1	uniprot		CellPhoneDB	curated
+COL5A2	ITGA10	uniprot		CellPhoneDB	curated
+COL5A2	ITGA11	uniprot		CellPhoneDB	curated
+COL5A2	ITGA2	uniprot		CellPhoneDB	curated
+COL5A3	ITGA1	uniprot		CellPhoneDB	curated
+COL5A3	ITGB1	uniprot		CellPhoneDB	curated
+COL5A3	ITGA10	uniprot		CellPhoneDB	curated
+COL5A3	ITGA11	uniprot		CellPhoneDB	curated
+COL5A3	ITGA2	uniprot		CellPhoneDB	curated
+COL6A1	ITGA1	uniprot		CellPhoneDB	curated
+COL6A1	ITGB1	uniprot		CellPhoneDB	curated
+COL6A1	ITGA10	uniprot		CellPhoneDB	curated
+COL6A1	ITGA11	uniprot		CellPhoneDB	curated
+COL6A1	ITGA2	uniprot		CellPhoneDB	curated
+COL6A2	ITGA1	uniprot		CellPhoneDB	curated
+COL6A2	ITGB1	uniprot		CellPhoneDB	curated
+COL6A2	ITGA10	uniprot		CellPhoneDB	curated
+COL6A2	ITGA11	uniprot		CellPhoneDB	curated
+COL6A2	ITGA2	uniprot		CellPhoneDB	curated
+COL6A3	ITGA1	uniprot		CellPhoneDB	curated
+COL6A3	ITGB1	uniprot		CellPhoneDB	curated
+COL6A3	ITGA10	uniprot		CellPhoneDB	curated
+COL6A3	ITGA11	uniprot		CellPhoneDB	curated
+COL6A3	ITGA2	uniprot		CellPhoneDB	curated
+COL6A5	ITGA1	uniprot		CellPhoneDB	curated
+COL6A5	ITGB1	uniprot		CellPhoneDB	curated
+COL6A5	ITGA10	uniprot		CellPhoneDB	curated
+COL6A5	ITGA11	uniprot		CellPhoneDB	curated
+COL6A5	ITGA2	uniprot		CellPhoneDB	curated
+COL6A6	ITGA1	uniprot		CellPhoneDB	curated
+COL6A6	ITGB1	uniprot		CellPhoneDB	curated
+COL6A6	ITGA10	uniprot		CellPhoneDB	curated
+COL6A6	ITGA11	uniprot		CellPhoneDB	curated
+COL6A6	ITGA2	uniprot		CellPhoneDB	curated
+COL7A1	ITGA1	uniprot		CellPhoneDB	curated
+COL7A1	ITGB1	uniprot		CellPhoneDB	curated
+COL7A1	ITGA10	uniprot		CellPhoneDB	curated
+COL7A1	ITGA11	uniprot		CellPhoneDB	curated
+COL7A1	ITGA2	uniprot		CellPhoneDB	curated
+COL8A1	ITGA1	uniprot		CellPhoneDB	curated
+COL8A1	ITGB1	uniprot		CellPhoneDB	curated
+COL8A1	ITGA10	uniprot		CellPhoneDB	curated
+COL8A1	ITGA11	uniprot		CellPhoneDB	curated
+COL8A1	ITGA2	uniprot		CellPhoneDB	curated
+COL8A2	ITGA1	uniprot		CellPhoneDB	curated
+COL8A2	ITGB1	uniprot		CellPhoneDB	curated
+COL8A2	ITGA10	uniprot		CellPhoneDB	curated
+COL8A2	ITGA11	uniprot		CellPhoneDB	curated
+COL8A2	ITGA2	uniprot		CellPhoneDB	curated
+COL9A1	ITGA1	uniprot		CellPhoneDB	curated
+COL9A1	ITGB1	uniprot		CellPhoneDB	curated
+COL9A1	ITGA10	uniprot		CellPhoneDB	curated
+COL9A1	ITGA11	uniprot		CellPhoneDB	curated
+COL9A1	ITGA2	uniprot		CellPhoneDB	curated
+COL9A2	ITGA1	uniprot		CellPhoneDB	curated
+COL9A2	ITGB1	uniprot		CellPhoneDB	curated
+COL9A2	ITGA10	uniprot		CellPhoneDB	curated
+COL9A2	ITGA11	uniprot		CellPhoneDB	curated
+COL9A2	ITGA2	uniprot		CellPhoneDB	curated
+COL9A3	ITGA1	uniprot		CellPhoneDB	curated
+COL9A3	ITGB1	uniprot		CellPhoneDB	curated
+COL9A3	ITGA10	uniprot		CellPhoneDB	curated
+COL9A3	ITGA11	uniprot		CellPhoneDB	curated
+COL9A3	ITGA2	uniprot		CellPhoneDB	curated
+DSC1	DSG2	PMID:27298358	PMID:27298358	CellPhoneDB	curated
+DSC2	DSG2	PMID:27298358	PMID:27298358	CellPhoneDB	curated
+DSG1	DSC1	PMID:27298358	PMID:27298358	CellPhoneDB	curated
+DSG1	DSC2	PMID:27298358	PMID:27298358	CellPhoneDB	curated
+DSG1	DSC3	PMID:27298358	PMID:27298358	CellPhoneDB	curated
+DSG2	DSC3	PMID:27298358	PMID:27298358	CellPhoneDB	curated
+DAG1	CELSR3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+FGA	ITGA2B	uniprot		CellPhoneDB	curated
+FGA	ITGB3	uniprot		CellPhoneDB	curated
+FGB	ITGA2B	uniprot		CellPhoneDB	curated
+FGB	ITGB3	uniprot		CellPhoneDB	curated
+FGG	ITGA2B	uniprot		CellPhoneDB	curated
+FGG	ITGB3	uniprot		CellPhoneDB	curated
+FGA	ITGAM	uniprot		CellPhoneDB	curated
+FGA	ITGB2	uniprot		CellPhoneDB	curated
+FGB	ITGAM	uniprot		CellPhoneDB	curated
+FGB	ITGB2	uniprot		CellPhoneDB	curated
+FGG	ITGAM	uniprot		CellPhoneDB	curated
+FGG	ITGB2	uniprot		CellPhoneDB	curated
+FGA	ITGAX	uniprot		CellPhoneDB	curated
+FGB	ITGAX	uniprot		CellPhoneDB	curated
+FGG	ITGAX	uniprot		CellPhoneDB	curated
+FN1	ITGA10	uniprot		CellPhoneDB	curated
+FN1	ITGB1	uniprot		CellPhoneDB	curated
+FN1	ITGA11	uniprot		CellPhoneDB	curated
+FN1	ITGA2	uniprot		CellPhoneDB	curated
+FN1	ITGA2B	uniprot		CellPhoneDB	curated
+FN1	ITGB3	uniprot		CellPhoneDB	curated
+FN1	ITGA3	uniprot		CellPhoneDB	curated
+FN1	ITGA4	uniprot		CellPhoneDB	curated
+FN1	ITGB7	uniprot		CellPhoneDB	curated
+FN1	ITGA5	uniprot		CellPhoneDB	curated
+FN1	ITGA8	uniprot		CellPhoneDB	curated
+FN1	ITGAV	uniprot		CellPhoneDB	curated
+FN1	ITGB5	uniprot		CellPhoneDB	curated
+GJA1	GJA5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GJA3	GJA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GJA3	GJA5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GJA3	GJC1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GJC1	GJA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GJC1	GJA5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+ICAM1	ITGAL	Reviewed_in_PMID:23602662		CellPhoneDB	curated
+ICAM1	ITGAL	uniprot		CellPhoneDB	curated
+ICAM1	ITGB2	uniprot		CellPhoneDB	curated
+ICAM1	ITGAM	uniprot		CellPhoneDB	curated
+ICAM1	ITGAX	PMID:16252253	PMID:16252253	CellPhoneDB	curated
+ICAM1	ITGB2	PMID:16252253	PMID:16252253	CellPhoneDB	curated
+ICAM1	SPN	PMID:1683685	PMID:1683685	CellPhoneDB	curated
+ICAM2	CD209	uniprot		CellPhoneDB	curated
+ICAM2	ITGAL	uniprot		CellPhoneDB	curated
+ICAM2	ITGB2	uniprot		CellPhoneDB	curated
+ICAM3	CD209	PMID:15795245	PMID:15795245	CellPhoneDB	curated
+ICAM3	CLEC4M	PMID:15795245	PMID:15795245	CellPhoneDB	curated
+ICAM3	ITGAD	uniprot		CellPhoneDB	curated
+ICAM3	ITGB2	uniprot		CellPhoneDB	curated
+ICAM3	ITGAL	uniprot		CellPhoneDB	curated
+ICAM4	ITGAL	uniprot		CellPhoneDB	curated
+ICAM4	ITGB2	uniprot		CellPhoneDB	curated
+JAM2	ITGA4	PMID:12070135	PMID:12070135	CellPhoneDB	curated
+JAM2	ITGB1	PMID:12070135	PMID:12070135	CellPhoneDB	curated
+JAM2	JAM3	PMC1237098;PMID:11590146		CellPhoneDB	curated
+JAM3	ITGAM	PMID:16118203;PMC2194005	PMID:16118203;PMC2194005	CellPhoneDB	curated
+JAM3	ITGB2	PMID:16118203;PMC2194005	PMID:16118203;PMC2194005	CellPhoneDB	curated
+L1CAM	EZR	reactome		CellPhoneDB	curated
+L1CAM	ITGA2B	reactome		CellPhoneDB	curated
+L1CAM	ITGB3	reactome		CellPhoneDB	curated
+L1CAM	ITGA5	PMC2120661		CellPhoneDB	curated
+L1CAM	ITGB1	PMC2120661		CellPhoneDB	curated
+L1CAM	ITGA9	reactome		CellPhoneDB	curated
+L1CAM	ITGB1	reactome		CellPhoneDB	curated
+L1CAM	ITGAV	reactome		CellPhoneDB	curated
+L1CAM	ITGAV	PMID:9396761	PMID:9396761	CellPhoneDB	curated
+L1CAM	ITGB3	PMID:9396761	PMID:9396761	CellPhoneDB	curated
+LAMA3	ITGA3	uniprot		CellPhoneDB	curated
+LAMA3	ITGB1	uniprot		CellPhoneDB	curated
+LAMC1	ITGA2	uniprot		CellPhoneDB	curated
+LAMC1	ITGB1	uniprot		CellPhoneDB	curated
+LAMC1	ITGA6	uniprot		CellPhoneDB	curated
+LAMC1	ITGA7	uniprot		CellPhoneDB	curated
+LAMC1	ITGAV	uniprot		CellPhoneDB	curated
+LAMC1	ITGB3	uniprot		CellPhoneDB	curated
+NECTIN1	CADM3	uniprot		CellPhoneDB	curated
+NECTIN1	NECTIN3	PMID:12740392	PMID:12740392	CellPhoneDB	curated
+NECTIN1	NECTIN4	PMID:22902367	PMID:22902367	CellPhoneDB	curated
+NECTIN2	NECTIN3	PMID:19011627;PMID:12740392	PMID:19011627;PMID:12740392	CellPhoneDB	curated
+SPP1	ITGA4	PMID:1830891;PMID:8970045	PMID:1830891;PMID:8970045	CellPhoneDB	curated
+SPP1	ITGB1	PMID:1830891;PMID:8970045	PMID:1830891;PMID:8970045	CellPhoneDB	curated
+SPP1	ITGA9	PMID:1830891;PMID:8970045	PMID:1830891;PMID:8970045	CellPhoneDB	curated
+SPP1	ITGAV	PMID:24442579	PMID:24442579	CellPhoneDB	curated
+SPP1	ITGB3	PMID:24442579	PMID:24442579	CellPhoneDB	curated
+F10	ITGAM	uniprot		CellPhoneDB	curated
+F10	ITGB2	uniprot		CellPhoneDB	curated
+F11R	ITGAL	PMID:11812992;PMID:15528364	PMID:11812992;PMID:15528364	CellPhoneDB	curated
+F11R	ITGB2	PMID:11812992;PMID:15528364	PMID:11812992;PMID:15528364	CellPhoneDB	curated
+F2	F2R	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+F2	F2RL2	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+F2	F2RL3	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+F2	GP1BA	PDB:1hyr_partially		CellPhoneDB	curated
+F2	GP1BB	PDB:1hyr_partially		CellPhoneDB	curated
+F2	ITGA2B	uniprot		CellPhoneDB	curated
+F2	ITGB3	uniprot		CellPhoneDB	curated
+F2	ITGAV	uniprot		CellPhoneDB	curated
+F2	THBD	uniprot		CellPhoneDB	curated
+TNC	ITGA4	uniprot		CellPhoneDB	curated
+TNC	ITGB1	uniprot		CellPhoneDB	curated
+TNC	ITGA8	uniprot		CellPhoneDB	curated
+TNC	ITGA9	uniprot		CellPhoneDB	curated
+TNC	ITGAV	uniprot		CellPhoneDB	curated
+TNC	ITGB3	uniprot		CellPhoneDB	curated
+TNC	ITGB6	uniprot		CellPhoneDB	curated
+THBS1	ITGA2B	uniprot		CellPhoneDB	curated
+THBS1	ITGB3	uniprot		CellPhoneDB	curated
+THBS1	ITGA3	uniprot		CellPhoneDB	curated
+THBS1	ITGB1	uniprot		CellPhoneDB	curated
+THBS1	ITGAV	uniprot		CellPhoneDB	curated
+VCAM1	ITGA4	PMC4368157		CellPhoneDB	curated
+VCAM1	ITGB1	PMC4368157		CellPhoneDB	curated
+VCAM1	ITGA4	uniprot		CellPhoneDB	curated
+VCAM1	ITGB7	uniprot		CellPhoneDB	curated
+VCAM1	ITGA9	uniprot		CellPhoneDB	curated
+VCAM1	ITGB1	uniprot		CellPhoneDB	curated
+VCAM1	ITGAD	uniprot		CellPhoneDB	curated
+VCAM1	ITGB2	uniprot		CellPhoneDB	curated
+VTN	ITGA2B	uniprot		CellPhoneDB	curated
+VTN	ITGB3	uniprot		CellPhoneDB	curated
+VTN	ITGAV	uniprot		CellPhoneDB	curated
+VTN	ITGB1	uniprot		CellPhoneDB	curated
+PLA2G2A	ITGA4	uniprot		CellPhoneDB	curated
+PLA2G2A	ITGB1	uniprot		CellPhoneDB	curated
+PLA2G2A	ITGA5	uniprot		CellPhoneDB	curated
+CHAT	CHRM1	reactome		CellPhoneDB	curated
+CHAT	CHRM2	reactome		CellPhoneDB	curated
+CHAT	CHRM3	reactome		CellPhoneDB	curated
+CHAT	CHRM4	reactome		CellPhoneDB	curated
+CHAT	CHRM5	reactome		CellPhoneDB	curated
+CHAT	CHRNA1	reactome		CellPhoneDB	curated
+CHAT	CHRNA2	reactome		CellPhoneDB	curated
+CHAT	CHRNB3	reactome		CellPhoneDB	curated
+CHAT	CHRNA3	reactome		CellPhoneDB	curated
+CHAT	CHRNA5	reactome		CellPhoneDB	curated
+CHAT	CHRNB2	reactome		CellPhoneDB	curated
+CHAT	CHRNB4	reactome		CellPhoneDB	curated
+CHAT	CHRNA4	reactome		CellPhoneDB	curated
+CHAT	CHRNA6	reactome		CellPhoneDB	curated
+CHAT	CHRNA7	reactome		CellPhoneDB	curated
+NT5E	ADORA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC29A1	ADORA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+NT5E	ADORA2A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC29A1	ADORA2A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+NT5E	ADORA2B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC29A1	ADORA2B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+NT5E	ADORA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC29A1	ADORA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC29A2	ADORA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC29A2	ADORA2A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC29A2	ADORA2B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC29A2	ADORA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC29A3	ADORA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC29A3	ADORA2A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC29A3	ADORA2B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC29A3	ADORA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC29A4	ADORA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC29A4	ADORA2A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC29A4	ADORA2B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC29A4	ADORA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+PNMT	ADRA1A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	ADRA1A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+PNMT	ADRA1B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	ADRA1B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+PNMT	ADRA1D	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	ADRA1D	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+PNMT	ADRA2A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	ADRA2A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+PNMT	ADRA2B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	ADRA2B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+PNMT	ADRA2C	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	ADRA2C	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+PNMT	ADRB1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	ADRB1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+PNMT	ADRB2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	ADRB2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+PNMT	ADRB3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	ADRB3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	ADRA1A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	ADRA1B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	ADRA1D	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	ADRA2A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	ADRA2B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	ADRA2C	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	ADRB1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	ADRB2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	ADRB3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+ADM	CALCRL	uniprot		CellPhoneDB	curated
+ADM	GPER1	uniprot		CellPhoneDB	curated
+ADM	RAMP3	uniprot		CellPhoneDB	curated
+ADM2	CALCRL	uniprot		CellPhoneDB	curated
+ADM2	GPER1	uniprot		CellPhoneDB	curated
+ADM2	RAMP3	uniprot		CellPhoneDB	curated
+ADM2	RAMP2	uniprot		CellPhoneDB	curated
+AGRP	MC2R	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+AGRP	MC3R	uniprot		CellPhoneDB	curated
+AGRP	MC4R	uniprot		CellPhoneDB	curated
+AGRP	MC5R	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+ASIP	MC1R	uniprot		CellPhoneDB	curated
+AGRN	LRP4	reactome		CellPhoneDB	curated
+AGRN	MUSK	reactome		CellPhoneDB	curated
+AGRN	PTPRS	reactome		CellPhoneDB	curated
+IAPP	CALCR	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+IAPP	CALCR	reactome		CellPhoneDB	curated
+IAPP	RAMP1	reactome		CellPhoneDB	curated
+IAPP	RAMP2	reactome		CellPhoneDB	curated
+IAPP	RAMP3	reactome		CellPhoneDB	curated
+APP	CD74	PMID:19849849	PMID:19849849	CellPhoneDB	curated
+APP	FPR2	reactome		CellPhoneDB	curated
+APP	PLXNA4	Shilts screen - VALIDATED		CellPhoneDB	curated
+APP	SORL1	uniprot		CellPhoneDB	curated
+APP	TNFRSF21	uniprot		CellPhoneDB	curated
+APP	TREM2	uniprot;PMID:27477013		CellPhoneDB	curated
+APP	TYROBP	uniprot;PMID:27477013		CellPhoneDB	curated
+APLP2	PIGR	Shilts screen - VALIDATED		CellPhoneDB	curated
+APLP2	PLXNA4	Shilts screen - VALIDATED		CellPhoneDB	curated
+CYP11B2	NR3C1	HMRbase		CellPhoneDB	curated
+CYP11B2	NR3C2	HMRbase;uniprot		CellPhoneDB	curated
+SRD5A1	AR	HMRbase;uniprot		CellPhoneDB	curated
+SRD5A2	AR	HMRbase;uniprot		CellPhoneDB	curated
+SRD5A3	AR	HMRbase;uniprot		CellPhoneDB	curated
+CYP17A1	AR	HMRbase;reactome		CellPhoneDB	curated
+HSD17B6	NR1H4	HMRbase		CellPhoneDB	curated
+CYP27B1	VDR	HMRbase;uniprot		CellPhoneDB	curated
+CYP11B1	NR3C1	HMRbase		CellPhoneDB	curated
+CYP11B1	NR3C2	uniprot;PMID:3037703		CellPhoneDB	curated
+CYP21A2	NR3C2	HMRbase;uniprot		CellPhoneDB	curated
+CYP19A1	ESR1	HMRbase;reactome		CellPhoneDB	curated
+CYP19A1	ESR2	HMRbase		CellPhoneDB	curated
+CYP19A1	GPER1	reactome;uniprot		CellPhoneDB	curated
+CYP19A1	NR1I2	HMRbase		CellPhoneDB	curated
+CYP11A1	NR1H4	HMRbase;uniprot		CellPhoneDB	curated
+CYP3A4	NR1H4	HMRbase;uniprot		CellPhoneDB	curated
+CYP11A1	NR1I2	HMRbase;uniprot		CellPhoneDB	curated
+FDX1	NR1I2	HMRbase;uniprot		CellPhoneDB	curated
+FDX2	NR1I2	HMRbase;uniprot		CellPhoneDB	curated
+FDXR	NR1I2	HMRbase;uniprot		CellPhoneDB	curated
+HSD17B12	AR	HMRbase;uniprot		CellPhoneDB	curated
+HSD17B3	AR	HMRbase;uniprot		CellPhoneDB	curated
+ANGPT1	TEK	uniprot		CellPhoneDB	curated
+ANGPT2	TEK	uniprot		CellPhoneDB	curated
+ANGPT4	TEK	uniprot		CellPhoneDB	curated
+AGT	AGTR1	uniprot		CellPhoneDB	curated
+AGT	AGTR2	uniprot		CellPhoneDB	curated
+ANXA1	FPR1	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+ANXA1	FPR2	PMID:22610094;reactome	PMID:22610094;reactome	CellPhoneDB	curated
+ANXA1	FPR3	reactome		CellPhoneDB	curated
+APELA	APLNR	uniprot		CellPhoneDB	curated
+APLN	APLNR	uniprot		CellPhoneDB	curated
+APOA1	ABCA1	reactome		CellPhoneDB	curated
+APOA1	AMN	reactome		CellPhoneDB	curated
+APOA1	CUBN	reactome		CellPhoneDB	curated
+APOA1	TREM2	uniprot;PMID:27477018		CellPhoneDB	curated
+APOA1	TYROBP	uniprot;PMID:27477018		CellPhoneDB	curated
+APOA2	TREM2	uniprot;PMID:27477017		CellPhoneDB	curated
+APOA2	TYROBP	uniprot;PMID:27477017		CellPhoneDB	curated
+APOB	APOBR	uniprot		CellPhoneDB	curated
+APOB	TREM2	uniprot;PMID:27477016		CellPhoneDB	curated
+APOB	TYROBP	uniprot;PMID:27477016		CellPhoneDB	curated
+APOE	TREM2	uniprot;PMID:27477015		CellPhoneDB	curated
+APOE	TYROBP	uniprot;PMID:27477015		CellPhoneDB	curated
+DAGLA	CNR1	reactome		CellPhoneDB	curated
+DAGLA	CNR2	reactome		CellPhoneDB	curated
+DAGLA	GPR55	reactome		CellPhoneDB	curated
+DAGLB	CNR1	reactome		CellPhoneDB	curated
+DAGLB	CNR2	reactome		CellPhoneDB	curated
+DAGLB	GPR55	reactome		CellPhoneDB	curated
+NGF	NGFR	uniprot		CellPhoneDB	curated
+NGF	NTRK1	uniprot		CellPhoneDB	curated
+NGF	SORT1	uniprot		CellPhoneDB	curated
+BMP10	ACVR2A	PMID:25136781	PMID:25136781	CellPhoneDB	curated
+BMP10	ACVRL1	PMID:25136781	PMID:25136781	CellPhoneDB	curated
+BMP10	ACVRL1	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP10	BMPR2	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP15	BMPR1B	PMID:22710174;PMID:12419820	PMID:22710174;PMID:12419820	CellPhoneDB	curated
+BMP15	BMPR2	PMID:22710174;PMID:12419820	PMID:22710174;PMID:12419820	CellPhoneDB	curated
+BMP15	ACVR1B	PMID:1218020110	PMID:1218020110	CellPhoneDB	curated
+BMP15	BMPR1B	PMID:1218020110	PMID:1218020110	CellPhoneDB	curated
+BMP15	BMPR2	PMID:1218020110	PMID:1218020110	CellPhoneDB	curated
+GDF2	ACVR1B	PMID:1218020110	PMID:1218020110	CellPhoneDB	curated
+GDF2	BMPR1B	PMID:1218020110	PMID:1218020110	CellPhoneDB	curated
+GDF2	BMPR2	PMID:1218020110	PMID:1218020110	CellPhoneDB	curated
+BMP2	ACVR2A	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP2	BMPR1A	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP2	BMPR1B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP2	ACVR2B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP2	BMPR2	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP4	ACVR2A	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP4	BMPR1A	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP4	BMPR1B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP4	ACVR2B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP4	BMPR2	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP5	ACVR1	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP5	ACVR2A	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP5	ACVR2B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP5	BMPR2	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP5	BMPR1A	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP5	BMPR1B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP6	ACVR1	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP6	ACVR2A	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP6	ACVR2B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP6	BMPR2	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP6	BMPR1A	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP6	BMPR1B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP7	ACVR1	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP7	ACVR2A	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP7	ACVR2B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP7	BMPR2	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP7	BMPR1A	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP7	BMPR1B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP8A	ACVR1	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP8A	ACVR2A	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP8A	ACVR2B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP8A	BMPR2	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP8A	BMPR1A	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMP8A	BMPR1B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BMPR1B	BMPR1A	3evs;_PDB_complex_higher_affinity		CellPhoneDB	curated
+BMPR2	BMPR1A	3evs;_PDB_complex_higher_affinity		CellPhoneDB	curated
+BDNF	NGFR	uniprot		CellPhoneDB	curated
+BDNF	NTRK2	uniprot		CellPhoneDB	curated
+BDNF	SORT1	uniprot		CellPhoneDB	curated
+CALCA	CALCR	uniprot;HMRbase;PMID:7476993		CellPhoneDB	curated
+CALCA	CALCRL	uniprot		CellPhoneDB	curated
+CALCA	RAMP1	uniprot		CellPhoneDB	curated
+CALCB	CALCR	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+CALCB	CALCRL	uniprot		CellPhoneDB	curated
+CALCB	RAMP1	uniprot		CellPhoneDB	curated
+CLSTN1	NRXN1	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+CLSTN1	NRXN2	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+CLSTN1	NRXN3	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+CLSTN2	NRXN1	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+CLSTN2	NRXN2	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+CLSTN2	NRXN3	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+CLSTN3	NRXN1	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+CLSTN3	NRXN2	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+CLSTN3	NRXN3	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+CTSG	F2RL3	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+CTSG	FPR1	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+CCL1	CCR8	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL11	ACKR2	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL11	CCR3	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL11	DPP4	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL13	ACKR2	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL13	CCR2	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL13	CCR3	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL14	ACKR2	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL14	CCR1	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL14	CCR3	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL15	CCR1	uniprot		CellPhoneDB	curated
+CCL15	CCR3	uniprot		CellPhoneDB	curated
+CCL16	CCR1	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL16	CCR2	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL16	CCR8	uniprot;reactome		CellPhoneDB	curated
+CCL16	HRH4	PMID:15265943	PMID:15265943	CellPhoneDB	curated
+CCL17	CCR4	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL18	CCR8	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL19	ACKR4	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL19	CCR7	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL19	CCRL2	uniprot		CellPhoneDB	curated
+CCL2	ACKR1	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL2	ACKR2	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL2	CCR2	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL20	CCR6	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL21	ACKR4	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL21	CCR7	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL22	CCR4	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL22	DPP4	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL23	CCR1	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL23	FPR2	reactome		CellPhoneDB	curated
+CCL24	CCR3	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL25	ACKR4	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL25	CCR9	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL26	CCR1	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL26	CCR2	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL26	CCR3	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL27	CCR10	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL28	CCR10	uniprot		CellPhoneDB	curated
+CCL3	ACKR2	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL3	CCR1	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL3	CCR3	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL3	CCR5	PMID:15251452	PMID:15251452	CellPhoneDB	curated
+CCL3L1	CCR1	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL3L1	CCR3	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL4	ACKR2	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL4	CCR5	uniprot		CellPhoneDB	curated
+CCL5	ACKR1	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL5	ACKR2	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL5	CCR1	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL5	CCR3	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL5	CCR4	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL5	CCR5	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL5	GPR75	uniprot		CellPhoneDB	curated
+CCL7	ACKR2	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL7	CCR1	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL7	CCR2	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL7	CCR3	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL7	CCR5	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL8	ACKR2	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL8	CCR1	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL8	CCR2	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL8	CCR3	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCL8	CCR5	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+PPBP	CXCR1	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+PPBP	CXCR2	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CX3CL1	CX3CR1	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CXCL1	ACKR1	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CXCL1	CXCR1	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CXCL1	CXCR2	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CXCL10	CXCR3	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CXCL10	DPP4	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CXCL11	ACKR3	uniprot		CellPhoneDB	curated
+CXCL11	CXCR3	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CXCL11	DPP4	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CXCL12	CXCR4	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CXCL12	DPP4	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CXCL13	ACKR4	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CXCL13	CXCR5	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CXCL14	CXCR4	PMID:32212206	PMID:32212206	CellPhoneDB	curated
+CXCL16	CXCR6	uniprot		CellPhoneDB	curated
+CXCL2	CXCR2	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CXCL2	DPP4	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CXCL3	CXCR2	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CXCL5	CXCR1	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CXCL5	CXCR2	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CXCL6	CXCR1	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CXCL6	CXCR2	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CXCL8	ACKR1	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CXCL8	CXCR1	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CXCL8	CXCR2	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CXCL9	CXCR3	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CXCL9	DPP4	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+CCK	CCKAR	uniprot;HMRbase;reactome		CellPhoneDB	curated
+CCK	CCKBR	uniprot;HMRbase;reactome		CellPhoneDB	curated
+CEL	RORA	HMRbase;PMID:12467577;PDB:1N83		CellPhoneDB	curated
+CEL	RORC	uniprot		CellPhoneDB	curated
+LIPA	RORA	HMRbase;PMID:12467577;PDB:1N83		CellPhoneDB	curated
+LIPA	RORC	uniprot		CellPhoneDB	curated
+DHCR24	RORA	HMRbase;PMID:12467577;PDB:1N83		CellPhoneDB	curated
+DHCR24	RORC	uniprot		CellPhoneDB	curated
+DHCR7	NR1H2	HMRbase;uniprot		CellPhoneDB	curated
+DHCR7	NR1H3	HMRbase		CellPhoneDB	curated
+DHCR7	RORA	HMRbase;PMID:12467577;PDB:1N83		CellPhoneDB	curated
+DHCR7	RORC	uniprot		CellPhoneDB	curated
+CHAT	CHRM1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC10A4	CHRM1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+CHAT	CHRM2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC10A4	CHRM2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+CHAT	CHRM3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC10A4	CHRM3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+CHAT	CHRM4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC10A4	CHRM4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+CHAT	CHRM5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC10A4	CHRM5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+CHAT	CHRNA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+CHAT	CHRNB1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+CHAT	CHRND	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+CHAT	CHRNE	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC10A4	CHRNA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC10A4	CHRNB1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC10A4	CHRND	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC10A4	CHRNE	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+CHAT	CHRNG	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC10A4	CHRNG	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+CHAT	CHRNA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+CHAT	CHRNB4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC10A4	CHRNA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC10A4	CHRNB4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+CHAT	CHRNA4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+CHAT	CHRNB2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC10A4	CHRNA4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC10A4	CHRNB2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+CHAT	CHRNA7	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC10A4	CHRNA7	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A3	CHRM1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A3	CHRM2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A3	CHRM3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A3	CHRM4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A3	CHRM5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A3	CHRNA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A3	CHRNB1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A3	CHRND	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A3	CHRNE	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A3	CHRNG	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A3	CHRNA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A3	CHRNB4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A3	CHRNA4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A3	CHRNB2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A3	CHRNA7	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC5A7	CHRM1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC5A7	CHRM2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC5A7	CHRM3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC5A7	CHRM4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC5A7	CHRM5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC5A7	CHRNA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC5A7	CHRNB1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC5A7	CHRND	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC5A7	CHRNE	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC5A7	CHRNG	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC5A7	CHRNA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC5A7	CHRNB4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC5A7	CHRNA4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC5A7	CHRNB2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC5A7	CHRNA7	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+CGA	LHCGR	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+CGB1	LHCGR	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+CGB2	LHCGR	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+CGB3	LHCGR	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+CGB7	LHCGR	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+CGA	FSHR	reactome		CellPhoneDB	curated
+FSHB	FSHR	reactome		CellPhoneDB	curated
+CGA	LHCGR	reactome		CellPhoneDB	curated
+LHB	LHCGR	reactome		CellPhoneDB	curated
+CGA	TSHR	uniprot;HMRbase;reactome		CellPhoneDB	curated
+TSHB	TSHR	uniprot;HMRbase;reactome		CellPhoneDB	curated
+C10ORF99	GPR15	uniprot		CellPhoneDB	curated
+C10ORF99	SUSD2	uniprot		CellPhoneDB	curated
+C1QL1	ADGRB3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+C1QL2	ADGRB3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+C1QL3	ADGRB3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+C1QL4	ADGRB3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+C3	C3AR1	uniprot;reactome		CellPhoneDB	curated
+C3	C5AR2	uniprot		CellPhoneDB	curated
+C3	ITGAM	uniprot		CellPhoneDB	curated
+C3	ITGB2	uniprot		CellPhoneDB	curated
+C4A	C5AR2	uniprot		CellPhoneDB	curated
+C5	C5AR1	uniprot		CellPhoneDB	curated
+C5	C5AR2	uniprot		CellPhoneDB	curated
+CRH	CRHR1	uniprot;HMRbase;reactome		CellPhoneDB	curated
+CRH	CRHR2	uniprot;HMRbase;reactome		CellPhoneDB	curated
+CSF1	CSF1R	uniprot		CellPhoneDB	curated
+CSF2	CSF2RA	PDB:4nkq		CellPhoneDB	curated
+CSF2	CSF2RB	PDB:4nkq		CellPhoneDB	curated
+CSF3	CSF3R	uniprot		CellPhoneDB	curated
+SULT1A1	PPARA	HMRbase		CellPhoneDB	curated
+SULT1A1	PPARD	HMRbase		CellPhoneDB	curated
+SULT1A1	PPARG	HMRbase		CellPhoneDB	curated
+SULT1E1	PPARA	HMRbase		CellPhoneDB	curated
+SULT1E1	PPARD	HMRbase		CellPhoneDB	curated
+SULT1E1	PPARG	HMRbase		CellPhoneDB	curated
+SULT2A1	PPARA	HMRbase		CellPhoneDB	curated
+SULT2A1	PPARD	HMRbase		CellPhoneDB	curated
+SULT2A1	PPARG	HMRbase		CellPhoneDB	curated
+UBASH3B	ESR1	HMRbase		CellPhoneDB	curated
+UBASH3B	NR1I2	HMRbase		CellPhoneDB	curated
+UBASH3B	PPARA	HMRbase;PMID:18079279		CellPhoneDB	curated
+DHH	BOC	reactome		CellPhoneDB	curated
+DHH	PTCH1	reactome		CellPhoneDB	curated
+DHH	CDON	reactome		CellPhoneDB	curated
+DHH	GAS1	reactome		CellPhoneDB	curated
+DHH	HHIP	reactome;PMID:10050855;PMID:19561611		CellPhoneDB	curated
+DHRS9	PGR	HMRbase		CellPhoneDB	curated
+TYR	GPR143	reactome;uniprot		CellPhoneDB	curated
+EDN1	EDNRA	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+EDN1	EDNRB	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+EDN2	EDNRA	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+EDN2	EDNRB	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+EDN3	EDNRA	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+EDN3	EDNRB	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+ENTPD1	ADORA1	uniprot		CellPhoneDB	curated
+ENTPD1	ADORA2A	uniprot		CellPhoneDB	curated
+ENTPD1	ADORA2B	uniprot		CellPhoneDB	curated
+ENTPD1	ADORA3	uniprot		CellPhoneDB	curated
+EFNA1	EPHA1	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA1	EPHA2	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA1	EPHA3	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA1	EPHA4	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA1	EPHA5	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA1	EPHA7	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA1	EPHA8	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA2	EPHA1	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA2	EPHA2	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA2	EPHA3	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA2	EPHA4	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA2	EPHA5	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA2	EPHA7	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA2	EPHA8	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA3	EPHA1	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA3	EPHA2	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA3	EPHA3	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA3	EPHA4	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA3	EPHA5	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA3	EPHA7	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA3	EPHA8	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA4	EPHA1	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA4	EPHA2	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA4	EPHA3	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA4	EPHA4	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA4	EPHA5	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA4	EPHA7	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA4	EPHA8	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA5	EPHA1	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA5	EPHA2	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA5	EPHA3	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA5	EPHA4	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA5	EPHA5	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA5	EPHA7	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA5	EPHA8	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNA5	EPHB2	PMID:15107857;PMID:15114347	PMID:15107857;PMID:15114347	CellPhoneDB	curated
+EFNB1	EPHA2	Shilts screen - VALIDATED		CellPhoneDB	curated
+EFNB1	EPHA4	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNB1	EPHB1	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNB1	EPHB2	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNB1	EPHB3	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNB1	EPHB4	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNB1	EPHB6	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNB2	EPHA4	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNB2	EPHB1	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNB2	EPHB2	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNB2	EPHB3	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNB2	EPHB4	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNB2	EPHB6	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNB3	EPHA4	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNB3	EPHB1	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNB3	EPHB2	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNB3	EPHB3	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNB3	EPHB4	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+EFNB3	EPHB6	PMID:15114347	PMID:15114347	CellPhoneDB	curated
+AREG	EGFR	uniprot		CellPhoneDB	curated
+BTC	EGFR	uniprot		CellPhoneDB	curated
+EGF	EGFR	uniprot		CellPhoneDB	curated
+EPGN	EGFR	uniprot		CellPhoneDB	curated
+EREG	EGFR	uniprot		CellPhoneDB	curated
+EREG	ERBB4	uniprot		CellPhoneDB	curated
+HBEGF	EGFR	uniprot		CellPhoneDB	curated
+HBEGF	ERBB2	uniprot		CellPhoneDB	curated
+HBEGF	ERBB4	uniprot		CellPhoneDB	curated
+PNMT	ADRA1A	reactome		CellPhoneDB	curated
+PNMT	ADRA1B	reactome		CellPhoneDB	curated
+PNMT	ADRA1D	reactome		CellPhoneDB	curated
+PNMT	ADRA2A	reactome		CellPhoneDB	curated
+PNMT	ADRA2B	reactome		CellPhoneDB	curated
+PNMT	ADRA2C	reactome		CellPhoneDB	curated
+PNMT	ADRB1	HMRbase;reactome		CellPhoneDB	curated
+PNMT	ADRB2	reactome		CellPhoneDB	curated
+PNMT	ADRB3	reactome		CellPhoneDB	curated
+HSD17B1	ESR1	HMRbase;reactome		CellPhoneDB	curated
+HSD17B1	ESR2	HMRbase		CellPhoneDB	curated
+HSD17B1	GPER1	reactome;uniprot		CellPhoneDB	curated
+HSD17B1	NR1I2	HMRbase		CellPhoneDB	curated
+FCER2	CR2	PMID:16785534;PMC2212946	PMID:16785534;PMC2212946	CellPhoneDB	curated
+FCER2	FGFR2	Shilts screen - VALIDATED		CellPhoneDB	curated
+FCER2	ITGAM	PMID:7621072;PMID:8745401	PMID:7621072;PMID:8745401	CellPhoneDB	curated
+FCER2	ITGB2	PMID:7621072;PMID:8745401	PMID:7621072;PMID:8745401	CellPhoneDB	curated
+FCER2	ITGAV	PMID:10037797	PMID:10037797	CellPhoneDB	curated
+FCER2	ITGB3	PMID:10037797	PMID:10037797	CellPhoneDB	curated
+FCER2	ITGAX	PMID:7621072	PMID:7621072	CellPhoneDB	curated
+FCER2	ITGB2	PMID:7621072	PMID:7621072	CellPhoneDB	curated
+FGF1	FGFR1	uniprot		CellPhoneDB	curated
+FGF1	FGFR2	uniprot;reactome;PMID:27458533		CellPhoneDB	curated
+FGF1	FGFR3	uniprot;reactome;PMID:27458533		CellPhoneDB	curated
+FGF1	FGFR4	reactome;PMID:25772309		CellPhoneDB	curated
+FGF1	ITGAV	uniprot		CellPhoneDB	curated
+FGF1	ITGB3	uniprot		CellPhoneDB	curated
+FGF10	FGFR2	reactome;PMID:25772309		CellPhoneDB	curated
+FGF17	FGFR3	uniprot;reactome;PMID:27458533;PMID:25772309		CellPhoneDB	curated
+FGF19	FGFR4	uniprot;reactome;PMID:25772309		CellPhoneDB	curated
+FGF19	KLB	uniprot;reactome;PMID:25772309		CellPhoneDB	curated
+FGF2	FGFR1	uniprot		CellPhoneDB	curated
+FGF2	FGFR2	uniprot		CellPhoneDB	curated
+FGF2	FGFR3	uniprot		CellPhoneDB	curated
+FGF2	FGFR4	uniprot		CellPhoneDB	curated
+FGF2	ITGAV	uniprot		CellPhoneDB	curated
+FGF2	ITGB3	uniprot		CellPhoneDB	curated
+FGF20	FGFR3	uniprot;reactome;PMID:25772309		CellPhoneDB	curated
+FGF21	FGFR4	uniprot;PMID:25772309		CellPhoneDB	curated
+FGF21	KLB	uniprot;PMID:25772309		CellPhoneDB	curated
+FGF22	FGFR2	reactome;PMID:25772309		CellPhoneDB	curated
+FGF23	FGFR1	reactome;PMID:25772309		CellPhoneDB	curated
+FGF23	KL	reactome;PMID:25772309		CellPhoneDB	curated
+FGF3	FGFR2	reactome;PMID:25772309		CellPhoneDB	curated
+FGF4	FGFR1	uniprot;reactome;PMID:27458533;PMID:25772309		CellPhoneDB	curated
+FGF5	FGFR1	uniprot;reactome;PMID:27458533;PMID:25772309		CellPhoneDB	curated
+FGF6	FGFR1	uniprot;reactome;PMID:27458533;PMID:25772309		CellPhoneDB	curated
+FGF7	FGFR2	reactome;PMID:25772309		CellPhoneDB	curated
+FGF8	FGFR3	uniprot;reactome;PMID:27458533;PMID:25772309		CellPhoneDB	curated
+FGF9	FGFR3	uniprot;reactome;PMID:27458533;PMID:25772309		CellPhoneDB	curated
+FGL1	LAG3	uniprot		CellPhoneDB	curated
+NCAM1	FGFR1	PMID:12791257	PMID:12791257	CellPhoneDB	curated
+FLRT1	ADGRL1	PMID:29100073;PMID:31354411	PMID:29100073;PMID:31354411	CellPhoneDB	curated
+FLRT1	ADGRL3	PMID:29100073;PMID:31354411	PMID:29100073;PMID:31354411	CellPhoneDB	curated
+FLRT1	ADGRL1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TENM2	ADGRL1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+FLRT1	ADGRL3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TENM3	ADGRL3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TENM4	ADGRL1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+FLRT2	ADGRL1	PMID:29100073;PMID:31354411	PMID:29100073;PMID:31354411	CellPhoneDB	curated
+FLRT2	ADGRL3	PMID:29100073;PMID:31354411	PMID:29100073;PMID:31354411	CellPhoneDB	curated
+FLRT3	ADGRL2	PMID:29100073;PMID:31354411	PMID:29100073;PMID:31354411	CellPhoneDB	curated
+FLRT3	ADGRL3	PMID:29100073;PMID:31354411	PMID:29100073;PMID:31354411	CellPhoneDB	curated
+FLRT3	ADGRL1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+FLRT3	ADGRL2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TENM2	ADGRL2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+FLRT3	ADGRL3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD1	GABBR1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC32A1	GABBR1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD1	GABBR2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC32A1	GABBR2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD1	GABRA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD1	GABRB2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC32A1	GABRA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC32A1	GABRB2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD1	GABRD	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC32A1	GABRD	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD1	GABRG2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC32A1	GABRG2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD1	GABRB3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC32A1	GABRB3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD1	GABRA2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC32A1	GABRA2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD1	GABRA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD1	GABRE	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC32A1	GABRA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC32A1	GABRE	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD1	GABRQ	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC32A1	GABRQ	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD1	GABRA4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC32A1	GABRA4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD1	GABRA5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC32A1	GABRA5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD1	GABRA6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC32A1	GABRA6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A1	GABBR1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A1	GABBR2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A1	GABRA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A1	GABRB2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A1	GABRD	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A1	GABRG2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A1	GABRB3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A1	GABRA2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A1	GABRA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A1	GABRE	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A1	GABRQ	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A1	GABRA4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A1	GABRA5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A1	GABRA6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A11	GABBR1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A11	GABBR2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A11	GABRA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A11	GABRB2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A11	GABRD	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A11	GABRG2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A11	GABRB3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A11	GABRA2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A11	GABRA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A11	GABRE	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A11	GABRQ	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A11	GABRA4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A11	GABRA5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A11	GABRA6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A12	GABBR1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A12	GABBR2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A12	GABRA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A12	GABRB2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A12	GABRD	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A12	GABRG2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A12	GABRB3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A12	GABRA2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A12	GABRA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A12	GABRE	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A12	GABRQ	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A12	GABRA4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A12	GABRA5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A12	GABRA6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A13	GABBR1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A13	GABBR2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A13	GABRA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A13	GABRB2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A13	GABRD	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A13	GABRG2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A13	GABRB3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A13	GABRA2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A13	GABRA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A13	GABRE	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A13	GABRQ	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A13	GABRA4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A13	GABRA5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A13	GABRA6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A6	GABBR1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A6	GABBR2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A6	GABRA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A6	GABRB2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A6	GABRD	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A6	GABRG2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A6	GABRB3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A6	GABRA2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A6	GABRA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A6	GABRE	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A6	GABRQ	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A6	GABRA4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A6	GABRA5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A6	GABRA6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A8	GABBR1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A8	GABBR2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A8	GABRA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A8	GABRB2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A8	GABRD	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A8	GABRG2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A8	GABRB3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A8	GABRA2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A8	GABRA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A8	GABRE	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A8	GABRQ	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A8	GABRA4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A8	GABRA5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A8	GABRA6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD2	GABBR1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD2	GABBR2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD2	GABRA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD2	GABRB2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD2	GABRD	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD2	GABRG2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD2	GABRB3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD2	GABRA2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD2	GABRA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD2	GABRE	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD2	GABRQ	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD2	GABRA4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD2	GABRA5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAD2	GABRA6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAL	GALR1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAL	GALR1	uniprot		CellPhoneDB	curated
+GAL	GPR151	uniprot		CellPhoneDB	curated
+GAL	GALR2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAL	GALR2	uniprot		CellPhoneDB	curated
+GAL	GALR3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAL	GALR3	uniprot		CellPhoneDB	curated
+GALP	GALR1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GALP	GALR1	uniprot		CellPhoneDB	curated
+GALP	GPR151	uniprot		CellPhoneDB	curated
+GALP	GALR2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GALP	GALR2	uniprot		CellPhoneDB	curated
+GALP	GALR3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GALP	GALR3	uniprot		CellPhoneDB	curated
+LGALS3	MERTK	uniprot		CellPhoneDB	curated
+LGALS9	BCR	PMID:30120235	PMID:30120235	CellPhoneDB	curated
+LGALS9	CD22	PMID:30120235	PMID:30120235	CellPhoneDB	curated
+LGALS9	PTPRC	PMID:30120235	PMID:30120235	CellPhoneDB	curated
+LGALS9	HAVCR2	PMID:27192565;Uniprot	PMID:27192565;Uniprot	CellPhoneDB	curated
+LGALS9	P4HB	PMID:21670307;uniprot	PMID:21670307;uniprot	CellPhoneDB	curated
+GAST	ADGRG1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAST	CCKAR	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAST	CCKBR	uniprot;HMRbase;reactome		CellPhoneDB	curated
+GIP	GIPR	uniprot		CellPhoneDB	curated
+GRP	GRPR	uniprot;HMRbase;reactome		CellPhoneDB	curated
+GRP	NMBR	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+GLS	GRIA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A6	GRIA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS	GRIA2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A6	GRIA2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS	GRIA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A6	GRIA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS	GRIA4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A6	GRIA4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS	GRIK1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A6	GRIK1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS	GRIK4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A6	GRIK4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS	GRIK5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A6	GRIK5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS	GRIK2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A6	GRIK2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS	GRIK3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A6	GRIK3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS	GRIN1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS	GRIN2A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A6	GRIN1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A6	GRIN2A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS	GRIN2B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A6	GRIN2B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS	GRIN2C	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A6	GRIN2C	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS	GRIN2D	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A6	GRIN2D	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS	GRM1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A6	GRM1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS	GRM2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A6	GRM2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS	GRM3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A6	GRM3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS	GRM4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A6	GRM4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS	GRM5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A6	GRM5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS	GRM6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A6	GRM6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS	GRM7	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A6	GRM7	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS	GRM8	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A6	GRM8	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A7	GRIA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A7	GRIA2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A7	GRIA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A7	GRIA4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A7	GRIK1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A7	GRIK4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A7	GRIK5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A7	GRIK2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A7	GRIK3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A7	GRIN1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A7	GRIN2A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A7	GRIN2B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A7	GRIN2C	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A7	GRIN2D	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A7	GRM1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A7	GRM2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A7	GRM3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A7	GRM4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A7	GRM5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A7	GRM6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A7	GRM7	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A7	GRM8	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A8	GRIA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A8	GRIA2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A8	GRIA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A8	GRIA4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A8	GRIK1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A8	GRIK4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A8	GRIK5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A8	GRIK2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A8	GRIK3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A8	GRIN1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A8	GRIN2A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A8	GRIN2B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A8	GRIN2C	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A8	GRIN2D	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A8	GRM1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A8	GRM2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A8	GRM3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A8	GRM4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A8	GRM5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A8	GRM6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A8	GRM7	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC17A8	GRM8	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A1	GRIA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A1	GRIA2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A1	GRIA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A1	GRIA4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A1	GRIK1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A1	GRIK4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A1	GRIK5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A1	GRIK2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A1	GRIK3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A1	GRIN1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A1	GRIN2A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A1	GRIN2B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A1	GRIN2C	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A1	GRIN2D	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A1	GRM1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A1	GRM2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A1	GRM3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A1	GRM4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A1	GRM5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A1	GRM6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A1	GRM7	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A1	GRM8	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A2	GRIA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A2	GRIA2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A2	GRIA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A2	GRIA4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A2	GRIK1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A2	GRIK4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A2	GRIK5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A2	GRIK2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A2	GRIK3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A2	GRIN1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A2	GRIN2A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A2	GRIN2B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A2	GRIN2C	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A2	GRIN2D	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A2	GRM1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A2	GRM2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A2	GRM3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A2	GRM4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A2	GRM5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A2	GRM6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A2	GRM7	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A2	GRM8	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A3	GRIA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A3	GRIA2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A3	GRIA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A3	GRIA4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A3	GRIK1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A3	GRIK4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A3	GRIK5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A3	GRIK2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A3	GRIK3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A3	GRIN1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A3	GRIN2A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A3	GRIN2B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A3	GRIN2C	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A3	GRIN2D	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A3	GRM1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A3	GRM2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A3	GRM3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A3	GRM4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A3	GRM5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A3	GRM6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A3	GRM7	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A3	GRM8	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A6	GRIA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A6	GRIA2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A6	GRIA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A6	GRIA4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A6	GRIK1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A6	GRIK4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A6	GRIK5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A6	GRIK2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A6	GRIK3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A6	GRIN1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A6	GRIN2A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A6	GRIN2B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A6	GRIN2C	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A6	GRIN2D	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A6	GRM1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A6	GRM2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A6	GRM3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A6	GRM4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A6	GRM5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A6	GRM6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A6	GRM7	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A6	GRM8	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A7	GRIA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A7	GRIA2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A7	GRIA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A7	GRIA4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A7	GRIK1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A7	GRIK4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A7	GRIK5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A7	GRIK2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A7	GRIK3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A7	GRIN1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A7	GRIN2A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A7	GRIN2B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A7	GRIN2C	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A7	GRIN2D	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A7	GRM1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A7	GRM2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A7	GRM3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A7	GRM4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A7	GRM5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A7	GRM6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A7	GRM7	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC1A7	GRM8	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS2	GRIA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS2	GRIA2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS2	GRIA3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS2	GRIA4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS2	GRIK1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS2	GRIK4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS2	GRIK5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS2	GRIK2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS2	GRIK3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS2	GRIN1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS2	GRIN2A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS2	GRIN2B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS2	GRIN2C	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS2	GRIN2D	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS2	GRM1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS2	GRM2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS2	GRM3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS2	GRM4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS2	GRM5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS2	GRM6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS2	GRM7	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GLS2	GRM8	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SHMT1	GLRA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SHMT1	GLRB	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A5	GLRA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A5	GLRB	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SHMT1	GLRA2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A5	GLRA2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A9	GLRA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A9	GLRB	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A9	GLRA2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SHMT2	GLRA1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SHMT2	GLRB	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SHMT2	GLRA2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GAS6	AXL	uniprot		CellPhoneDB	curated
+GAS6	MERTK	uniprot		CellPhoneDB	curated
+GAS6	TYRO3	uniprot		CellPhoneDB	curated
+GDF1	ACVR1B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+GDF1	ACVR2B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+GDF10	ACVR1B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+GDF10	ACVR2B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+GDF11	ACVR1B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+GDF11	ACVR2A	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+GDF11	ACVR2B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+GDF11	TGFBR1	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+GDF2	ACVR2A	PMID:25136781	PMID:25136781	CellPhoneDB	curated
+GDF2	ACVRL1	PMID:25136781	PMID:25136781	CellPhoneDB	curated
+GDF2	ACVRL1	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+GDF2	BMPR2	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+GDF3	ACVR1B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+GDF3	ACVR2B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+GDF5	ACVR2A	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+GDF5	BMPR1A	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+GDF5	BMPR1B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+GDF5	ACVR2B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+GDF5	BMPR2	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+GDF6	ACVR2A	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+GDF6	BMPR1A	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+GDF6	BMPR1B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+GDF6	ACVR2B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+GDF6	BMPR2	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+GDF7	ACVR2A	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+GDF7	BMPR1A	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+GDF7	BMPR1B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+GDF7	ACVR2B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+GDF7	BMPR2	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+GDF9	BMPR2	PMID:12135884	PMID:12135884	CellPhoneDB	curated
+GDF9	TGFBR1	PMID:12135884	PMID:12135884	CellPhoneDB	curated
+MSTN	ACVR1B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+MSTN	ACVR2B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+MSTN	ACVR2A	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+MSTN	TGFBR1	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+BTC	ERBB3	uniprot		CellPhoneDB	curated
+BTC	ERBB4	uniprot		CellPhoneDB	curated
+GHRH	GHRHR	uniprot;HMRbase;reactome		CellPhoneDB	curated
+GHRL	GHRHR	uniprot;HMRbase;reactome		CellPhoneDB	curated
+GHRL	GHSR	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GHRL	GPR39	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+HDC	HRH1	uniprot;reactome		CellPhoneDB	curated
+HDC	HRH2	uniprot;reactome		CellPhoneDB	curated
+HDC	HRH3	uniprot;reactome		CellPhoneDB	curated
+HDC	HRH4	uniprot;reactome		CellPhoneDB	curated
+HLA-A	KIR3DL1	uniprot		CellPhoneDB	curated
+HLA-B	KIR3DL2	uniprot		CellPhoneDB	curated
+HLA-C	KIR2DL1	PMID:28484462	PMID:28484462	CellPhoneDB	curated
+HLA-C	KIR2DL3	PMID:28484462	PMID:28484462	CellPhoneDB	curated
+HLA-E	KLRC1	Induces_NK_Cell_Inhibition._Reviewed_in_PMID:24223577		CellPhoneDB	curated
+HLA-E	KLRC1	PMID:28484462	PMID:28484462	CellPhoneDB	curated
+HLA-E	KLRD1	PMID:28484462	PMID:28484462	CellPhoneDB	curated
+HLA-E	KLRC2	activating_interaction._uniprot_&_PMID:26697006		CellPhoneDB	curated
+HLA-E	KLRC2	PMID:28484462	PMID:28484462	CellPhoneDB	curated
+HLA-E	KLRC3	PMID:28484462	PMID:28484462	CellPhoneDB	curated
+HLA-E	KLRK1	Induces_NK_Cell_Activation._Reviewed_in_PMID:24223577		CellPhoneDB	curated
+HLA-F	KIR3DL1	PMID:27455421	PMID:27455421	CellPhoneDB	curated
+HLA-F	KIR3DL2	PMID:27455421	PMID:27455421	CellPhoneDB	curated
+HLA-F	KIR3DS1	PMID:27455421	PMID:27455421	CellPhoneDB	curated
+HLA-F	LILRB1	PMID:11169396	PMID:11169396	CellPhoneDB	curated
+HLA-F	LILRB2	PMID:11169396	PMID:11169396	CellPhoneDB	curated
+HLA-G	LILRB1	uniprot;Induces_NK_Cell_Inhibition._Reviewed_in_PMID:24987108		CellPhoneDB	curated
+HLA-G	LILRB2	uniprot		CellPhoneDB	curated
+MT-RNR2	FPR2	reactome		CellPhoneDB	curated
+MT-RNR2	FPR3	reactome		CellPhoneDB	curated
+IHH	BOC	reactome		CellPhoneDB	curated
+IHH	PTCH1	reactome		CellPhoneDB	curated
+IHH	CDON	reactome		CellPhoneDB	curated
+IHH	GAS1	reactome		CellPhoneDB	curated
+IHH	HHIP	reactome;PMID:10050855		CellPhoneDB	curated
+INHBA	ACVR1	less_common_binding;PMID:22710174;PMID:22991378_		CellPhoneDB	curated
+INHBA	ACVR2A	less_common_binding;PMID:22710174;PMID:22991378_		CellPhoneDB	curated
+INHBB	ACVR1	less_common_binding;PMID:22710174;PMID:22991378_		CellPhoneDB	curated
+INHBB	ACVR2A	less_common_binding;PMID:22710174;PMID:22991378_		CellPhoneDB	curated
+INHBA	ACVR2B	less_common_binding;PMID:22710174;PMID:22991378_		CellPhoneDB	curated
+INHBB	ACVR2B	less_common_binding;PMID:22710174;PMID:22991378_		CellPhoneDB	curated
+INHBA	ACVR1B	PMID:22710174;PMID:22991378	PMID:22710174;PMID:22991378	CellPhoneDB	curated
+INHBA	ACVR2A	PMID:22710174;PMID:22991378	PMID:22710174;PMID:22991378	CellPhoneDB	curated
+INHBB	ACVR1B	PMID:22710174;PMID:22991378	PMID:22710174;PMID:22991378	CellPhoneDB	curated
+INHBB	ACVR2A	PMID:22710174;PMID:22991378	PMID:22710174;PMID:22991378	CellPhoneDB	curated
+INHBA	ACVR2B	PMID:22710174;PMID:22991378	PMID:22710174;PMID:22991378	CellPhoneDB	curated
+INHBB	ACVR2B	PMID:22710174;PMID:22991378	PMID:22710174;PMID:22991378	CellPhoneDB	curated
+INHBA	ACVR1C	PMID:22710174;PMID:22991378	PMID:22710174;PMID:22991378	CellPhoneDB	curated
+INHBB	ACVR1C	PMID:22710174;PMID:22991378	PMID:22710174;PMID:22991378	CellPhoneDB	curated
+INS	INSR	uniprot		CellPhoneDB	curated
+INSL3	RXFP2	uniprot;reactome		CellPhoneDB	curated
+INSL5	RXFP4	uniprot;reactome		CellPhoneDB	curated
+IGF1	GPC3	PMID:18413366	PMID:18413366	CellPhoneDB	curated
+IGF1	IGF1R	PMID:18413366	PMID:18413366	CellPhoneDB	curated
+IGF1	IGF1R	uniprot		CellPhoneDB	curated
+IGF1	ITGA6	uniprot		CellPhoneDB	curated
+IGF1	ITGB4	uniprot		CellPhoneDB	curated
+IGF1	ITGAV	uniprot		CellPhoneDB	curated
+IGF1	ITGB3	uniprot		CellPhoneDB	curated
+IGF2	IGF1R	PMID:27102148	PMID:27102148	CellPhoneDB	curated
+IGF2	IGF2R	uniprot		CellPhoneDB	curated
+IGFBP3	TMEM219	reactome;uniprot;PMID:20353938		CellPhoneDB	curated
+IGFL1	IGFLR1	uniprot		CellPhoneDB	curated
+IGFL2	IGFLR1	uniprot		CellPhoneDB	curated
+IGFL3	IGFLR1	uniprot		CellPhoneDB	curated
+IFNA1	IFNAR1	PMID:9208871	PMID:9208871	CellPhoneDB	curated
+IFNA1	IFNAR2	PMID:9208871	PMID:9208871	CellPhoneDB	curated
+IFNA10	IFNAR1	uniprot		CellPhoneDB	curated
+IFNA10	IFNAR2	uniprot		CellPhoneDB	curated
+IFNA14	IFNAR1	uniprot		CellPhoneDB	curated
+IFNA14	IFNAR2	uniprot		CellPhoneDB	curated
+IFNA16	IFNAR1	uniprot		CellPhoneDB	curated
+IFNA16	IFNAR2	uniprot		CellPhoneDB	curated
+IFNA17	IFNAR1	uniprot		CellPhoneDB	curated
+IFNA17	IFNAR2	uniprot		CellPhoneDB	curated
+IFNA2	IFNAR1	PDB:3se3		CellPhoneDB	curated
+IFNA2	IFNAR2	PDB:3se3		CellPhoneDB	curated
+IFNA21	IFNAR1	uniprot		CellPhoneDB	curated
+IFNA21	IFNAR2	uniprot		CellPhoneDB	curated
+IFNA4	IFNAR1	uniprot		CellPhoneDB	curated
+IFNA4	IFNAR2	uniprot		CellPhoneDB	curated
+IFNA5	IFNAR1	uniprot		CellPhoneDB	curated
+IFNA5	IFNAR2	uniprot		CellPhoneDB	curated
+IFNA6	IFNAR1	uniprot		CellPhoneDB	curated
+IFNA6	IFNAR2	uniprot		CellPhoneDB	curated
+IFNA7	IFNAR1	uniprot		CellPhoneDB	curated
+IFNA7	IFNAR2	uniprot		CellPhoneDB	curated
+IFNA8	IFNAR1	uniprot		CellPhoneDB	curated
+IFNA8	IFNAR2	uniprot		CellPhoneDB	curated
+IFNB1	IFNAR1	PMID:9208871	PMID:9208871	CellPhoneDB	curated
+IFNB1	IFNAR2	PMID:9208871	PMID:9208871	CellPhoneDB	curated
+IFNE	IFNAR1	PMID:9208871	PMID:9208871	CellPhoneDB	curated
+IFNE	IFNAR2	PMID:9208871	PMID:9208871	CellPhoneDB	curated
+IFNG	IFNGR1	PMID:9208871	PMID:9208871	CellPhoneDB	curated
+IFNG	IFNGR2	PMID:9208871	PMID:9208871	CellPhoneDB	curated
+IFNK	IFNAR1	PMID:9208871	PMID:9208871	CellPhoneDB	curated
+IFNK	IFNAR2	PMID:9208871	PMID:9208871	CellPhoneDB	curated
+IFNL1	IFNLR1	PMID:9208871	PMID:9208871	CellPhoneDB	curated
+IFNL1	IL10RB	PMID:9208871	PMID:9208871	CellPhoneDB	curated
+IFNL2	IFNLR1	PMID:9208871	PMID:9208871	CellPhoneDB	curated
+IFNL2	IL10RB	PMID:9208871	PMID:9208871	CellPhoneDB	curated
+IFNL3	IFNLR1	5t5w;PDB		CellPhoneDB	curated
+IFNL3	IL10RB	5t5w;PDB		CellPhoneDB	curated
+IFNL3	IFNLR1	PMID:9208871	PMID:9208871	CellPhoneDB	curated
+IFNL3	IL10RB	PMID:9208871	PMID:9208871	CellPhoneDB	curated
+IFNW1	IFNAR1	PMID:9208871	PMID:9208871	CellPhoneDB	curated
+IFNW1	IFNAR2	PMID:9208871	PMID:9208871	CellPhoneDB	curated
+EBI3	IL12RB2	uniprot		CellPhoneDB	curated
+EBI3	IL6ST	uniprot		CellPhoneDB	curated
+IL12A	IL12RB2	uniprot		CellPhoneDB	curated
+IL12A	IL6ST	uniprot		CellPhoneDB	curated
+EBI3	IL27RA	uniprot		CellPhoneDB	curated
+IL27	IL27RA	uniprot		CellPhoneDB	curated
+IL27	IL6ST	uniprot		CellPhoneDB	curated
+IL10	IL10RA	PDB:1j7v_partially		CellPhoneDB	curated
+IL10	IL10RB	PDB:1j7v_partially		CellPhoneDB	curated
+IL11	IL11RA	uniprot		CellPhoneDB	curated
+IL11	IL6ST	uniprot		CellPhoneDB	curated
+IL12A	IL12RB1	uniprot		CellPhoneDB	curated
+IL12B	IL12RB1	uniprot		CellPhoneDB	curated
+IL12B	IL12RB2	uniprot		CellPhoneDB	curated
+IL12B	IL23R	uniprot		CellPhoneDB	curated
+IL23A	IL12RB1	uniprot		CellPhoneDB	curated
+IL23A	IL23R	uniprot		CellPhoneDB	curated
+IL13	IL13RA1	3bpo;PDB		CellPhoneDB	curated
+IL13	IL4R	3bpo;PDB		CellPhoneDB	curated
+IL13	IL13RA2	PMID:26471366	PMID:26471366	CellPhoneDB	curated
+IL15	IL15RA	Need_expression_of_IL15RA_(Q13261)_in_other_cells._2z3q;PDB_partially		CellPhoneDB	curated
+IL15	IL2RB	Need_expression_of_IL15RA_(Q13261)_in_other_cells._2z3q;PDB_partially		CellPhoneDB	curated
+IL17A	IL17RA	uniprot		CellPhoneDB	curated
+IL17A	IL17RC	uniprot		CellPhoneDB	curated
+IL17F	IL17RA	uniprot		CellPhoneDB	curated
+IL17F	IL17RC	uniprot		CellPhoneDB	curated
+IL17C	IL17RA	uniprot		CellPhoneDB	curated
+IL17C	IL17RE	uniprot		CellPhoneDB	curated
+IL18	IL18R1	3wo3;PDB_partially		CellPhoneDB	curated
+IL18	IL18RAP	3wo3;PDB_partially		CellPhoneDB	curated
+IL19	IL20RA	uniprot		CellPhoneDB	curated
+IL19	IL20RB	uniprot		CellPhoneDB	curated
+IL1A	IL1R1	uniprot		CellPhoneDB	curated
+IL1A	IL1RAP	uniprot		CellPhoneDB	curated
+IL1A	IL1R2	low_affinity;uniprot		CellPhoneDB	curated
+IL1A	IL1RAP	low_affinity;uniprot		CellPhoneDB	curated
+IL1B	IL1R1	4dep;PDB		CellPhoneDB	curated
+IL1B	IL1RAP	4dep;PDB		CellPhoneDB	curated
+IL1B	IL1R2	PDB:3o4o		CellPhoneDB	curated
+IL1B	IL1RAP	PDB:3o4o		CellPhoneDB	curated
+IL1F10	IL1RAP	to_check		CellPhoneDB	curated
+IL1F10	IL1RL2	to_check		CellPhoneDB	curated
+IL1RAP	PTPRF	Shilts screen - VALIDATED		CellPhoneDB	curated
+IL1RN	IL1R1	1irPDB_partially		CellPhoneDB	curated
+IL1RN	IL1RAP	1irPDB_partially		CellPhoneDB	curated
+IL1RN	IL1R2	low_affinity		CellPhoneDB	curated
+IL1RN	IL1RAP	low_affinity		CellPhoneDB	curated
+IL2	IL2RA	2b5i;PDB		CellPhoneDB	curated
+IL2	IL2RB	2b5i;PDB		CellPhoneDB	curated
+IL2	IL2RG	2b5i;PDB		CellPhoneDB	curated
+IL2	IL2RB	3qaz;PDB		CellPhoneDB	curated
+IL2	IL2RG	3qaz;PDB		CellPhoneDB	curated
+IL20	IL20RA	uniprot		CellPhoneDB	curated
+IL20	IL20RB	uniprot		CellPhoneDB	curated
+IL20	IL22RA1	uniprot		CellPhoneDB	curated
+IL21	IL21R	3tgPDB:\w+_partially;uniprot		CellPhoneDB	curated
+IL21	IL2RG	3tgPDB:\w+_partially;uniprot		CellPhoneDB	curated
+IL22	IL10RB	3dgPDB:$4		CellPhoneDB	curated
+IL22	IL22RA1	3dgPDB:$4		CellPhoneDB	curated
+IL24	IL20RA	uniprot		CellPhoneDB	curated
+IL24	IL20RB	uniprot		CellPhoneDB	curated
+IL24	IL22RA1	uniprot		CellPhoneDB	curated
+IL25	IL17RA	NA_IL17E_called_IL25		CellPhoneDB	curated
+IL25	IL17RB	NA_IL17E_called_IL25		CellPhoneDB	curated
+IL26	IL10RB	PMID:25421700	PMID:25421700	CellPhoneDB	curated
+IL26	IL20RA	PMID:25421700	PMID:25421700	CellPhoneDB	curated
+IL3	CSF2RB	uniprot		CellPhoneDB	curated
+IL3	IL3RA	uniprot		CellPhoneDB	curated
+IL33	IL1RAP	uniprot		CellPhoneDB	curated
+IL33	IL1RL1	uniprot		CellPhoneDB	curated
+IL34	CSF1R	uniprot		CellPhoneDB	curated
+IL36A	IL1RAP	uniprot		CellPhoneDB	curated
+IL36A	IL1RL2	uniprot		CellPhoneDB	curated
+IL36B	IL1RAP	uniprot		CellPhoneDB	curated
+IL36B	IL1RL2	uniprot		CellPhoneDB	curated
+IL36G	IL1RAP	uniprot		CellPhoneDB	curated
+IL36G	IL1RL2	uniprot		CellPhoneDB	curated
+IL36RN	IL1RAP	uniprot		CellPhoneDB	curated
+IL36RN	IL1RL2	uniprot		CellPhoneDB	curated
+IL37	IL18R1	See_paper_Nold_Petry_et_al.;2015		CellPhoneDB	curated
+IL37	SIGIRR	See_paper_Nold_Petry_et_al.;2015		CellPhoneDB	curated
+IL4	IL13RA1	PDB:3bpn		CellPhoneDB	curated
+IL4	IL4R	PDB:3bpn		CellPhoneDB	curated
+IL4	IL2RG	3qb7;PDB		CellPhoneDB	curated
+IL4	IL4R	3qb7;PDB		CellPhoneDB	curated
+IL5	CSF2RB	3qt2;PDB_partially		CellPhoneDB	curated
+IL5	IL5RA	3qt2;PDB_partially		CellPhoneDB	curated
+IL6	IL6R	1p9m;PDB		CellPhoneDB	curated
+IL6	IL6ST	1p9m;PDB		CellPhoneDB	curated
+IL7	IL2RG	3di2;PDB_partially		CellPhoneDB	curated
+IL7	IL7R	3di2;PDB_partially		CellPhoneDB	curated
+IL9	IL2RG	uniprot		CellPhoneDB	curated
+IL9	IL9R	uniprot		CellPhoneDB	curated
+RAET1E	HCST	Induces_NK_Cell_Activation._Reviewed_in_PMID:24223577		CellPhoneDB	curated
+RAET1E	KLRK1	Induces_NK_Cell_Activation._Reviewed_in_PMID:24223577		CellPhoneDB	curated
+RAET1G	HCST	Induces_NK_Cell_Activation._Reviewed_in_PMID:24223577		CellPhoneDB	curated
+RAET1G	KLRK1	Induces_NK_Cell_Activation._Reviewed_in_PMID:24223577		CellPhoneDB	curated
+RAET1L	HCST	Induces_NK_Cell_Activation._Reviewed_in_PMID:24223577._4s0u;PDB_partially		CellPhoneDB	curated
+RAET1L	KLRK1	Induces_NK_Cell_Activation._Reviewed_in_PMID:24223577._4s0u;PDB_partially		CellPhoneDB	curated
+ULBP1	HCST	Induces_NK_Cell_Activation._Reviewed_in_PMID:24223577		CellPhoneDB	curated
+ULBP1	KLRK1	Induces_NK_Cell_Activation._Reviewed_in_PMID:24223577		CellPhoneDB	curated
+ULBP2	HCST	Induces_NK_Cell_Activation._Reviewed_in_PMID:24223577		CellPhoneDB	curated
+ULBP2	KLRK1	Induces_NK_Cell_Activation._Reviewed_in_PMID:24223577		CellPhoneDB	curated
+ULBP3	HCST	Induces_NK_Cell_Activation;PMID:24223577;PDB:1kcg_partially		CellPhoneDB	curated
+ULBP3	KLRK1	Induces_NK_Cell_Activation;PMID:24223577;PDB:1kcg_partially		CellPhoneDB	curated
+KNG1	BDKRB1	uniprot;reactome		CellPhoneDB	curated
+KNG1	BDKRB2	uniprot;reactome		CellPhoneDB	curated
+KNG1	RXFP4	uniprot		CellPhoneDB	curated
+LEFTY1	TDGF1	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+LEFTY2	TDGF1	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+CLEC2A	KLRF2	Induces_NK_Cell_Activation._Reviewed_in_PMID:24223577		CellPhoneDB	curated
+CLEC2B	KLRF1	Induces_NK_Cell_Activation._Reviewed_in_PMID:24223577		CellPhoneDB	curated
+LRRC4B	PTPRD	PMID:29100073;PMID:34966732	PMID:29100073;PMID:34966732	CellPhoneDB	curated
+LRRC4B	PTPRF	PMID:29100073;PMID:34966732	PMID:29100073;PMID:34966732	CellPhoneDB	curated
+LRRC4B	PTPRS	PMID:29100073;PMID:34966732	PMID:29100073;PMID:34966732	CellPhoneDB	curated
+LRRC4C	PTPRF	PMID:29100073;PMID:34966732	PMID:29100073;PMID:34966732	CellPhoneDB	curated
+LRFN4	PTPRD	PMID:29100073;PMID:34966732	PMID:29100073;PMID:34966732	CellPhoneDB	curated
+LRFN4	PTPRF	PMID:29100073;PMID:34966732	PMID:29100073;PMID:34966732	CellPhoneDB	curated
+LRFN4	PTPRS	PMID:29100073;PMID:34966732	PMID:29100073;PMID:34966732	CellPhoneDB	curated
+LRFN5	PTPRD	PMID:29100073;PMID:34966732	PMID:29100073;PMID:34966732	CellPhoneDB	curated
+LRFN5	PTPRF	PMID:29100073;PMID:34966732	PMID:29100073;PMID:34966732	CellPhoneDB	curated
+LRFN5	PTPRS	PMID:29100073;PMID:34966732	PMID:29100073;PMID:34966732	CellPhoneDB	curated
+LRRTM1	NRXN1	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+LRRTM1	NRXN2	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+LRRTM1	NRXN3	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+LRRTM2	NRXN1	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+LRRTM2	NRXN2	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+LRRTM2	NRXN3	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+LRRTM3	NRXN1	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+LRRTM3	NRXN2	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+LRRTM3	NRXN3	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+LRRTM4	NRXN1	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+LRRTM4	NRXN2	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+LRRTM4	NRXN3	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+LRRTM4	PTPRS	PMID:29100073;PMID:34966732	PMID:29100073;PMID:34966732	CellPhoneDB	curated
+NCAM1	AGRN	reactome		CellPhoneDB	curated
+DPEP1	CYSLTR1	HMRbase;uniprot;reactome		CellPhoneDB	curated
+DPEP1	CYSLTR2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+DPEP2	CYSLTR1	HMRbase;uniprot;reactome		CellPhoneDB	curated
+DPEP2	CYSLTR2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+DPEP3	CYSLTR1	HMRbase;uniprot;reactome		CellPhoneDB	curated
+DPEP3	CYSLTR2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GGT1	CYSLTR1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GGT1	CYSLTR2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+GGT1	CYSLTR1	HMRbase;uniprot;reactome		CellPhoneDB	curated
+GGT5	CYSLTR1	HMRbase;uniprot;reactome		CellPhoneDB	curated
+GGT1	CYSLTR2	HMRbase;uniprot;reactome		CellPhoneDB	curated
+GGT5	CYSLTR2	HMRbase;uniprot;reactome		CellPhoneDB	curated
+GGT1	GPR17	uniprot;reactome		CellPhoneDB	curated
+GGT5	GPR17	uniprot;reactome		CellPhoneDB	curated
+LTA4H	GPR17	uniprot;reactome		CellPhoneDB	curated
+LTA4H	LTB4R	HMRbase;uniprot;reactome		CellPhoneDB	curated
+LTA4H	LTB4R2	HMRbase;uniprot;reactome		CellPhoneDB	curated
+LTB	LTBR	uniprot		CellPhoneDB	curated
+LTC4S	CYSLTR1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+LTC4S	CYSLTR2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+PTGR1	LTB4R	HMRbase;uniprot;reactome		CellPhoneDB	curated
+PTGR1	LTB4R2	HMRbase;uniprot;reactome		CellPhoneDB	curated
+ALOX12	CYSLTR1	HMRbase		CellPhoneDB	curated
+ALOX12	FPR2	HMRbase;uniprot		CellPhoneDB	curated
+ALOX5	CYSLTR1	HMRbase;uniprot;reactome		CellPhoneDB	curated
+ALOX5AP	CYSLTR1	HMRbase;uniprot;reactome		CellPhoneDB	curated
+LTC4S	CYSLTR1	HMRbase;uniprot;reactome		CellPhoneDB	curated
+ALOX5	CYSLTR1	HMRbase		CellPhoneDB	curated
+ALOX5AP	CYSLTR1	HMRbase		CellPhoneDB	curated
+LTC4S	CYSLTR1	HMRbase		CellPhoneDB	curated
+ALOX5	CYSLTR2	HMRbase;uniprot;reactome		CellPhoneDB	curated
+ALOX5AP	CYSLTR2	HMRbase;uniprot;reactome		CellPhoneDB	curated
+LTC4S	CYSLTR2	HMRbase;uniprot;reactome		CellPhoneDB	curated
+ALOX5	FPR2	HMRbase;uniprot		CellPhoneDB	curated
+ALOX5AP	FPR2	HMRbase;uniprot		CellPhoneDB	curated
+LTC4S	FPR2	HMRbase;uniprot		CellPhoneDB	curated
+ALOX5	GPR17	uniprot;reactome		CellPhoneDB	curated
+ALOX5AP	GPR17	uniprot;reactome		CellPhoneDB	curated
+LTC4S	GPR17	uniprot;reactome		CellPhoneDB	curated
+ALOX5	OXER1	HMRbase;uniprot		CellPhoneDB	curated
+ALOX5AP	OXER1	HMRbase;uniprot		CellPhoneDB	curated
+LTC4S	OXER1	HMRbase;uniprot		CellPhoneDB	curated
+XCL1	XCR1	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+XCL2	XCR1	uniprot		CellPhoneDB	curated
+LPAR1	ADGRE5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+LPAR2	ADGRE5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+LPAR3	ADGRE5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+ASMT	MTNR1A	uniprot;reactome		CellPhoneDB	curated
+ASMT	MTNR1B	uniprot;reactome		CellPhoneDB	curated
+MDK	ALK	uniprot		CellPhoneDB	curated
+MDK	PTPRZ1	PMID:10212223	PMID:10212223	CellPhoneDB	curated
+AMH	ACVR1	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+AMH	AMHR2	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+AMH	BMPR1A	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+AMH	BMPR1B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+NECTIN2	TIGIT	PMID:1313846;Induces_NK_Cell_Inhibition._Reviewed_in_PMID:24987108	PMID:1313846;Induces_NK_Cell_Inhibition._Reviewed_in_PMID:24987108	CellPhoneDB	curated
+NECTIN3	PVR	PMID:19011627;PMID:12740392	PMID:19011627;PMID:12740392	CellPhoneDB	curated
+NECTIN3	TIGIT	PMID:1313846	PMID:1313846	CellPhoneDB	curated
+NTN1	DCC	uniprot		CellPhoneDB	curated
+NTN1	DSCAM	uniprot		CellPhoneDB	curated
+NTN1	UNC5A	uniprot		CellPhoneDB	curated
+NTN1	UNC5B	uniprot		CellPhoneDB	curated
+NTN1	UNC5C	uniprot		CellPhoneDB	curated
+NTN4	NTRK2	uniprot		CellPhoneDB	curated
+NTN4	UNC5B	uniprot		CellPhoneDB	curated
+NTN4	UNC5D	uniprot		CellPhoneDB	curated
+NRG1	ERBB3	uniprot		CellPhoneDB	curated
+NRG1	ERBB4	uniprot		CellPhoneDB	curated
+NRG1	ITGA6	uniprot		CellPhoneDB	curated
+NRG1	ITGB4	uniprot		CellPhoneDB	curated
+NRG2	ERBB3	uniprot		CellPhoneDB	curated
+NRG2	ERBB4	uniprot		CellPhoneDB	curated
+NRG3	ERBB4	uniprot		CellPhoneDB	curated
+NRG4	ERBB4	uniprot		CellPhoneDB	curated
+NRXN1	ADGRL1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+NRXN1	DAG1	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+NRXN2	ADGRL1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+NRXN2	DAG1	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+NRXN3	ADGRL1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+NLGN1	NRXN1	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+NLGN1	NRXN2	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+NLGN1	NRXN3	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+NLGN2	NRXN1	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+NLGN2	NRXN2	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+NLGN2	NRXN3	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+NLGN3	NRXN1	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+NLGN3	NRXN2	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+NLGN3	NRXN3	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+NLGN3	PTPRD	PMID:29100073;PMID:34966732	PMID:29100073;PMID:34966732	CellPhoneDB	curated
+NLGN4X	NRXN1	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+NLGN4X	NRXN2	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+NLGN4X	NRXN3	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+NLGN4Y	NRXN1	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+NLGN4Y	NRXN2	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+NMB	GRPR	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+NMB	NMBR	uniprot;HMRbase;reactome		CellPhoneDB	curated
+NMS	NMUR1	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+NMS	NMUR2	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+NMU	NMUR1	uniprot		CellPhoneDB	curated
+NMU	NMUR2	uniprot		CellPhoneDB	curated
+NPB	NPBWR1	uniprot;reactome		CellPhoneDB	curated
+NPB	NPBWR2	uniprot;reactome		CellPhoneDB	curated
+NPFF	NPFFR1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+NPFF	NPFFR2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+NPPA	NPR1	uniprot		CellPhoneDB	curated
+NPS	NPSR1	uniprot		CellPhoneDB	curated
+NPW	NPBWR1	uniprot;reactome		CellPhoneDB	curated
+NPW	NPBWR2	uniprot;reactome		CellPhoneDB	curated
+NTS	NTSR1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+NTS	NTSR2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+NTS	SORT1	uniprot		CellPhoneDB	curated
+NRTN	GFRA2	uniprot		CellPhoneDB	curated
+NRTN	RET	uniprot		CellPhoneDB	curated
+NTF3	NGFR	uniprot		CellPhoneDB	curated
+NTF3	NTRK1	uniprot		CellPhoneDB	curated
+NTF3	NTRK2	uniprot		CellPhoneDB	curated
+NTF3	NTRK3	uniprot		CellPhoneDB	curated
+NTF4	NGFR	uniprot		CellPhoneDB	curated
+NTF4	NTRK2	uniprot		CellPhoneDB	curated
+NODAL	ACVR1B	reactome		CellPhoneDB	curated
+NODAL	ACVR2A	reactome		CellPhoneDB	curated
+NODAL	CFC1	reactome		CellPhoneDB	curated
+NODAL	TDGF1	reactome		CellPhoneDB	curated
+NODAL	ACVR1B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+NODAL	ACVR2B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+NODAL	CFC1	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+NODAL	TDGF1	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+NODAL	ACVR1C	reactome;PMID:15150278		CellPhoneDB	curated
+NODAL	ACVR2B	reactome;PMID:15150278		CellPhoneDB	curated
+NODAL	CFC1	reactome;PMID:15150278		CellPhoneDB	curated
+NODAL	TDGF1	reactome;PMID:15150278		CellPhoneDB	curated
+DBH	ADRA1A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+DBH	ADRA1B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+DBH	ADRA1D	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+DBH	ADRA2A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+DBH	ADRA2B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+DBH	ADRA2C	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+DBH	ADRB1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+DBH	ADRB2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+DBH	ADRB3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A2	ADRA1A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A2	ADRA1B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A2	ADRA1D	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A2	ADRA2A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A2	ADRA2B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A2	ADRA2C	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A2	ADRB1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A2	ADRB2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A2	ADRB3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+CNTN1	NOTCH1	uniprot;PMID:14567914		CellPhoneDB	curated
+CNTN1	NOTCH2	reactome;PMID:14567914		CellPhoneDB	curated
+DLK1	NOTCH1	PMID:22353464	PMID:22353464	CellPhoneDB	curated
+DLK1	NOTCH2	PMID:22353464	PMID:22353464	CellPhoneDB	curated
+DLK1	NOTCH3	PMID:22353464	PMID:22353464	CellPhoneDB	curated
+DLK1	NOTCH4	PMID:22353464	PMID:22353464	CellPhoneDB	curated
+DLL1	NOTCH1	PMID:22353464	PMID:22353464	CellPhoneDB	curated
+DLL1	NOTCH2	PMID:22353464	PMID:22353464	CellPhoneDB	curated
+DLL1	NOTCH3	PMID:22353464	PMID:22353464	CellPhoneDB	curated
+DLL1	NOTCH4	PMID:22353464	PMID:22353464	CellPhoneDB	curated
+DLL3	NOTCH1	PMID:22353464	PMID:22353464	CellPhoneDB	curated
+DLL3	NOTCH2	PMID:22353464	PMID:22353464	CellPhoneDB	curated
+DLL3	NOTCH3	PMID:22353464	PMID:22353464	CellPhoneDB	curated
+DLL3	NOTCH4	PMID:22353464	PMID:22353464	CellPhoneDB	curated
+DLL4	NOTCH1	PMID:22353464	PMID:22353464	CellPhoneDB	curated
+DLL4	NOTCH2	PMID:22353464	PMID:22353464	CellPhoneDB	curated
+DLL4	NOTCH3	PMID:22353464	PMID:22353464	CellPhoneDB	curated
+DLL4	NOTCH4	PMID:22353464	PMID:22353464	CellPhoneDB	curated
+JAG1	NOTCH1	PMID:22353464	PMID:22353464	CellPhoneDB	curated
+JAG1	NOTCH2	PMID:22353464	PMID:22353464	CellPhoneDB	curated
+JAG1	NOTCH3	PMID:22353464	PMID:22353464	CellPhoneDB	curated
+JAG1	NOTCH4	PMID:22353464	PMID:22353464	CellPhoneDB	curated
+JAG2	NOTCH1	PMID:22353464	PMID:22353464	CellPhoneDB	curated
+JAG2	NOTCH2	PMID:22353464	PMID:22353464	CellPhoneDB	curated
+JAG2	NOTCH3	PMID:22353464	PMID:22353464	CellPhoneDB	curated
+JAG2	NOTCH4	PMID:22353464	PMID:22353464	CellPhoneDB	curated
+OSM	IL6ST	uniprot		CellPhoneDB	curated
+OSM	LIFR	uniprot		CellPhoneDB	curated
+OSM	OSMR	uniprot		CellPhoneDB	curated
+PDYN	OPRD1	reactome		CellPhoneDB	curated
+PDYN	OPRK1	reactome		CellPhoneDB	curated
+PDYN	OPRM1	uniprot;reactome		CellPhoneDB	curated
+PENK	OPRD1	reactome		CellPhoneDB	curated
+PENK	OPRK1	reactome		CellPhoneDB	curated
+PENK	OPRM1	reactome		CellPhoneDB	curated
+PNOC	OPRL1	uniprot;reactome		CellPhoneDB	curated
+HCRT	HCRTR1	uniprot		CellPhoneDB	curated
+HCRT	HCRTR2	uniprot		CellPhoneDB	curated
+OXT	AVPR1A	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+OXT	AVPR1B	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+OXT	AVPR2	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+OXT	OXTR	uniprot;HMRbase;reactome		CellPhoneDB	curated
+PTH	PTH1R	uniprot;HMRbase;reactome		CellPhoneDB	curated
+PTH	PTH2R	uniprot;reactome		CellPhoneDB	curated
+PTH2	PTH1R	uniprot;reactome		CellPhoneDB	curated
+PTH2	PTH2R	uniprot;reactome		CellPhoneDB	curated
+PTHLH	PRLHR	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+PTHLH	PTH1R	uniprot;reactome		CellPhoneDB	curated
+PTHLH	PTH2R	uniprot;reactome		CellPhoneDB	curated
+ADCYAP1	ADCYAP1R1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+ADCYAP1	VIPR1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+ADCYAP1	VIPR2	uniprot		CellPhoneDB	curated
+PGF	FLT1	uniprot		CellPhoneDB	curated
+PGF	KDR	uniprot		CellPhoneDB	curated
+PGF	NRP1	uniprot		CellPhoneDB	curated
+PGF	NRP2	uniprot		CellPhoneDB	curated
+PLAU	PLAUR	uniprot		CellPhoneDB	curated
+PLAUR	ITGA4	PMID:11053440	PMID:11053440	CellPhoneDB	curated
+PLAUR	ITGB1	PMID:11053440	PMID:11053440	CellPhoneDB	curated
+PLAUR	ITGAV	PMID:11053440;PMID:15863511	PMID:11053440;PMID:15863511	CellPhoneDB	curated
+PLAUR	ITGB3	PMID:11053440;PMID:15863511	PMID:11053440;PMID:15863511	CellPhoneDB	curated
+PDGFA	PDGFRA	uniprot		CellPhoneDB	curated
+PDGFB	PDGFRA	uniprot		CellPhoneDB	curated
+PDGFB	PDGFRB	uniprot		CellPhoneDB	curated
+PDGFC	PDGFRA	uniprot		CellPhoneDB	curated
+PDGFD	PDGFRA	uniprot		CellPhoneDB	curated
+PDGFD	PDGFRB	uniprot		CellPhoneDB	curated
+PTN	ALK	uniprot		CellPhoneDB	curated
+PTN	PTPRZ1	PMID:25644401	PMID:25644401	CellPhoneDB	curated
+PODXL	SELL	PMID:22814396	PMID:22814396	CellPhoneDB	curated
+PODXL2	SELE	uniprot		CellPhoneDB	curated
+PODXL2	SELL	uniprot		CellPhoneDB	curated
+PODXL2	SELP	uniprot		CellPhoneDB	curated
+POMC	MC1R	uniprot;HMRbase;reactome		CellPhoneDB	curated
+PVR	CD226	activating_interaction_PMID:15607800;NK_cell_cytotoxicity._PMID:24440149		CellPhoneDB	curated
+PVR	CD96	uniprot		CellPhoneDB	curated
+PVR	TIGIT	PMID:19815499;Induces_NK_Cell_Inhibition._Reviewed_in_PMID:24987108	PMID:19815499;Induces_NK_Cell_Inhibition._Reviewed_in_PMID:24987108	CellPhoneDB	curated
+GCG	GCGR	uniprot;HMRbase;reactome		CellPhoneDB	curated
+GCG	GLP1R	uniprot		CellPhoneDB	curated
+GCG	GLP2R	uniprot		CellPhoneDB	curated
+PMCH	MCHR1	reactome		CellPhoneDB	curated
+PMCH	MCHR2	reactome		CellPhoneDB	curated
+NPY	NPY1R	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+NPY	NPY2R	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+NPY	NPY4R	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+NPY	NPY5R	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+NPY	PRLHR	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+HSD3B1	CATSPER1	uniprot;reactome		CellPhoneDB	curated
+HSD3B1	CATSPERB	uniprot;reactome		CellPhoneDB	curated
+HSD3B1	CATSPERD	uniprot;reactome		CellPhoneDB	curated
+HSD3B1	CATSPER2	uniprot;reactome		CellPhoneDB	curated
+HSD3B1	CATSPER3	uniprot;reactome		CellPhoneDB	curated
+HSD3B1	CATSPER4	uniprot;reactome		CellPhoneDB	curated
+HSD3B1	PGR	HMRbase		CellPhoneDB	curated
+GNRH1	GNRHR	uniprot;HMRbase;reactome		CellPhoneDB	curated
+GNRH1	GNRHR2	uniprot;HMRbase;reactome		CellPhoneDB	curated
+GNRH2	GNRHR	uniprot;HMRbase;reactome		CellPhoneDB	curated
+GNRH2	GNRHR2	uniprot;HMRbase;reactome		CellPhoneDB	curated
+PROK1	PROKR1	reactome;uniprot		CellPhoneDB	curated
+PROK1	PROKR2	reactome;uniprot		CellPhoneDB	curated
+PROK2	PROKR1	reactome;uniprot		CellPhoneDB	curated
+PROK2	PROKR2	reactome;uniprot		CellPhoneDB	curated
+PRL	PRLR	uniprot;HMRbase;PMID:12580759		CellPhoneDB	curated
+PRLH	PRLHR	uniprot;HMRbase;reactome		CellPhoneDB	curated
+POMC	MC2R	uniprot		CellPhoneDB	curated
+POMC	MC3R	uniprot;reactome		CellPhoneDB	curated
+POMC	MC4R	uniprot;reactome		CellPhoneDB	curated
+POMC	MC5R	uniprot;reactome		CellPhoneDB	curated
+POMC	OPRD1	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+POMC	OPRK1	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+POMC	OPRM1	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+RLN1	RXFP1	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+RLN1	RXFP2	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+RLN1	RXFP3	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+RLN2	RXFP1	uniprot;HMRbase;reactome		CellPhoneDB	curated
+RLN2	RXFP2	uniprot;reactome		CellPhoneDB	curated
+RLN2	RXFP3	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+RLN3	RXFP1	uniprot;HMRbase;reactome		CellPhoneDB	curated
+RLN3	RXFP2	uniprot;HMRbase;reactome		CellPhoneDB	curated
+RLN3	RXFP3	uniprot;HMRbase;reactome		CellPhoneDB	curated
+RLN3	RXFP4	uniprot;HMRbase;reactome		CellPhoneDB	curated
+PSAP	GPR37	uniprot		CellPhoneDB	curated
+PSAP	GPR37L1	uniprot		CellPhoneDB	curated
+AKR1B1	PTGFR	HMRbase;uniprot;reactome		CellPhoneDB	curated
+AKR1C3	PTGDR	HMRbase;uniprot;reactome		CellPhoneDB	curated
+AKR1C3	PTGDR2	uniprot;reactome		CellPhoneDB	curated
+AKR1C3	PTGFR	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+CBR1	PTGFR	HMRbase;uniprot;reactome		CellPhoneDB	curated
+PTGDS	PTGDR	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+PTGDS	PTGDR2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+PTGES	PTGER1	HMRbase;reactome;uniprot		CellPhoneDB	curated
+PTGES	PTGER2	HMRbase;uniprot		CellPhoneDB	curated
+PTGES	PTGER3	HMRbase;uniprot		CellPhoneDB	curated
+PTGES	PTGER4	HMRbase;uniprot		CellPhoneDB	curated
+PTGES2	PTGER1	HMRbase;reactome;uniprot		CellPhoneDB	curated
+PTGES2	PTGER2	HMRbase;uniprot		CellPhoneDB	curated
+PTGES2	PTGER3	HMRbase;uniprot		CellPhoneDB	curated
+PTGES2	PTGER4	HMRbase;uniprot		CellPhoneDB	curated
+PTGES3	PTGER1	HMRbase;reactome;uniprot		CellPhoneDB	curated
+PTGES3	PTGER2	HMRbase;uniprot		CellPhoneDB	curated
+PTGES3	PTGER3	HMRbase;uniprot		CellPhoneDB	curated
+PTGES3	PTGER4	HMRbase;uniprot		CellPhoneDB	curated
+PPY	NPY1R	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+PPY	NPY2R	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+PPY	NPY4R	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+PPY	NPY5R	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+PYY	NPY1R	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+PYY	NPY2R	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+PYY	NPY4R	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+PYY	NPY5R	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+RSPO1	FZD8	uniprot		CellPhoneDB	curated
+RSPO1	LRP6	uniprot		CellPhoneDB	curated
+RSPO1	KREMEN1	uniprot		CellPhoneDB	curated
+RSPO1	LGR4	uniprot;reactome		CellPhoneDB	curated
+RSPO1	LGR5	uniprot;reactome		CellPhoneDB	curated
+RSPO1	LGR6	uniprot;reactome		CellPhoneDB	curated
+RSPO2	LGR4	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+RSPO2	LGR5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+RSPO2	LGR6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+RSPO3	LGR4	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+RSPO3	LGR5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+RSPO3	LGR6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+RSPO4	LGR4	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+RSPO4	LGR5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+RSPO4	LGR6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+RELN	LRP8	uniprot		CellPhoneDB	curated
+RELN	VLDLR	uniprot		CellPhoneDB	curated
+ALDH1A1	CRABP2	uniprot;reactome		CellPhoneDB	curated
+ALDH1A1	RARA	uniprot;reactome		CellPhoneDB	curated
+ALDH1A1	RXRA	uniprot;reactome		CellPhoneDB	curated
+ALDH1A1	RARB	uniprot;reactome		CellPhoneDB	curated
+ALDH1A1	RXRB	uniprot;reactome		CellPhoneDB	curated
+ALDH1A1	RARG	uniprot;reactome		CellPhoneDB	curated
+ALDH1A1	RXRG	uniprot;reactome		CellPhoneDB	curated
+ALDH1A1	RORB	uniprot		CellPhoneDB	curated
+ALDH1A2	CRABP2	uniprot;reactome		CellPhoneDB	curated
+ALDH1A2	RARA	uniprot;reactome		CellPhoneDB	curated
+ALDH1A2	RXRA	uniprot;reactome		CellPhoneDB	curated
+ALDH1A2	RARB	uniprot;reactome		CellPhoneDB	curated
+ALDH1A2	RXRB	uniprot;reactome		CellPhoneDB	curated
+ALDH1A2	RARG	uniprot;reactome		CellPhoneDB	curated
+ALDH1A2	RXRG	uniprot;reactome		CellPhoneDB	curated
+ALDH1A2	RORB	uniprot		CellPhoneDB	curated
+ALDH1A3	CRABP2	uniprot;reactome		CellPhoneDB	curated
+ALDH1A3	RARA	uniprot;reactome		CellPhoneDB	curated
+ALDH1A3	RXRA	uniprot;reactome		CellPhoneDB	curated
+ALDH1A3	RARB	uniprot;reactome		CellPhoneDB	curated
+ALDH1A3	RXRB	uniprot;reactome		CellPhoneDB	curated
+ALDH1A3	RARG	uniprot;reactome		CellPhoneDB	curated
+ALDH1A3	RXRG	uniprot;reactome		CellPhoneDB	curated
+ALDH1A3	RORB	uniprot		CellPhoneDB	curated
+RARRES2	CCRL2	uniprot		CellPhoneDB	curated
+RARRES2	CMKLR1	uniprot		CellPhoneDB	curated
+RARRES2	GPR1	uniprot		CellPhoneDB	curated
+SOSTDC1	LRP5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+SOSTDC1	LRP6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+SCT	SCTR	uniprot;HMRbase;reactome		CellPhoneDB	curated
+SCT	VIPR1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SCT	VIPR2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SELE	GLG1	PMID:11404363	PMID:11404363	CellPhoneDB	curated
+SELPLG	SELE	PMC4571854		CellPhoneDB	curated
+SELPLG	SELL	PMC2431087;PMID:8892633;PMID:8896607		CellPhoneDB	curated
+SELPLG	SELP	PMID:19118202;PMID:9829984;PMID:12393589	PMID:19118202;PMID:9829984;PMID:12393589	CellPhoneDB	curated
+SEMA3A	NRP1	uniprot		CellPhoneDB	curated
+SEMA3A	NRP1	PMID:22325954	PMID:22325954	CellPhoneDB	curated
+SEMA3A	PLXNA1	PMID:22325954	PMID:22325954	CellPhoneDB	curated
+SEMA3A	PLXNA2	PMID:22325954	PMID:22325954	CellPhoneDB	curated
+SEMA3A	PLXNA3	PMID:22325954	PMID:22325954	CellPhoneDB	curated
+SEMA3A	PLXNA4	PMID:22325954	PMID:22325954	CellPhoneDB	curated
+SEMA3C	NRP2	uniprot		CellPhoneDB	curated
+SEMA3E	PLXND1	PMID:22325954	PMID:22325954	CellPhoneDB	curated
+SEMA3F	NRP2	uniprot		CellPhoneDB	curated
+SEMA4A	PLXND1	PMID:22325954	PMID:22325954	CellPhoneDB	curated
+SEMA4C	PLXNB2	uniprot		CellPhoneDB	curated
+SEMA4D	CD72	PMID:22325954	PMID:22325954	CellPhoneDB	curated
+SEMA4D	PLXNB1	PMID:22325954	PMID:22325954	CellPhoneDB	curated
+SEMA4D	PLXNB2	PMID:22325954	PMID:22325954	CellPhoneDB	curated
+SEMA4D	PTPRC	PMID:22325954	PMID:22325954	CellPhoneDB	curated
+SEMA4G	PLXNB2	uniprot		CellPhoneDB	curated
+SEMA5A	PLXNB3	uniprot		CellPhoneDB	curated
+SEMA6A	NRP1	uniprot		CellPhoneDB	curated
+SEMA6A	PLXNA2	uniprot		CellPhoneDB	curated
+SEMA6D	KDR	PMID:22325954	PMID:22325954	CellPhoneDB	curated
+SEMA6D	PLXNA1	PMID:22325954	PMID:22325954	CellPhoneDB	curated
+SEMA6D	TREM2	PMID:22325954	PMID:22325954	CellPhoneDB	curated
+SEMA6D	TYROBP	PMID:22325954	PMID:22325954	CellPhoneDB	curated
+SEMA7A	ITGA1	PMID:22325954	PMID:22325954	CellPhoneDB	curated
+SEMA7A	ITGB1	PMID:22325954	PMID:22325954	CellPhoneDB	curated
+SEMA7A	PLXNC1	PMID:22325954	PMID:22325954	CellPhoneDB	curated
+SLC18A1	HTR1A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH1	HTR1A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	HTR1B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH1	HTR1B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	HTR1D	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH1	HTR1D	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	HTR1E	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH1	HTR1E	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	HTR1F	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH1	HTR1F	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	HTR2A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH1	HTR2A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	HTR2B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH1	HTR2B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	HTR2C	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH1	HTR2C	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	HTR3A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	HTR3B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	HTR3C	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	HTR3D	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	HTR3E	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH1	HTR3A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH1	HTR3B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH1	HTR3C	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH1	HTR3D	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH1	HTR3E	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	HTR4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH1	HTR4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	HTR5A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH1	HTR5A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	HTR6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH1	HTR6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	HTR7	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH1	HTR7	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH2	HTR1A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH2	HTR1B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH2	HTR1D	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH2	HTR1E	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH2	HTR1F	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH2	HTR2A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH2	HTR2B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH2	HTR2C	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH2	HTR3A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH2	HTR3B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH2	HTR3C	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH2	HTR3D	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH2	HTR3E	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH2	HTR4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH2	HTR5A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH2	HTR6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TPH2	HTR7	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	HTR1A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	HTR1B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	HTR1D	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	HTR1E	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	HTR1F	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	HTR2A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	HTR2B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	HTR2C	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	HTR3A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	HTR3B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	HTR3C	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	HTR3D	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	HTR3E	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	HTR4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	HTR5A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	HTR6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	HTR7	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A4	HTR1A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A4	HTR1B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A4	HTR1D	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A4	HTR1E	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A4	HTR1F	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A4	HTR2A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A4	HTR2B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A4	HTR2C	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A4	HTR3A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A4	HTR3B	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A4	HTR3C	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A4	HTR3D	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A4	HTR3E	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A4	HTR4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A4	HTR5A	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A4	HTR6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A4	HTR7	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+DDC	DRD1	uniprot;reactome		CellPhoneDB	curated
+DDC	DRD2	uniprot;reactome		CellPhoneDB	curated
+DDC	DRD3	uniprot;reactome		CellPhoneDB	curated
+DDC	DRD4	uniprot;reactome		CellPhoneDB	curated
+DDC	DRD5	uniprot;reactome		CellPhoneDB	curated
+DDC	HTR1A	HMRbase;uniprot;reactome		CellPhoneDB	curated
+DDC	HTR1B	uniprot;reactome		CellPhoneDB	curated
+DDC	HTR1D	uniprot;reactome		CellPhoneDB	curated
+DDC	HTR1E	uniprot;reactome		CellPhoneDB	curated
+DDC	HTR1F	uniprot;reactome		CellPhoneDB	curated
+DDC	HTR2A	HMRbase;uniprot;reactome		CellPhoneDB	curated
+DDC	HTR2B	uniprot;reactome		CellPhoneDB	curated
+DDC	HTR2C	HMRbase;uniprot;reactome		CellPhoneDB	curated
+DDC	HTR3A	HMRbase;uniprot		CellPhoneDB	curated
+DDC	HTR3B	uniprot		CellPhoneDB	curated
+DDC	HTR3C	uniprot		CellPhoneDB	curated
+DDC	HTR3D	uniprot		CellPhoneDB	curated
+DDC	HTR3E	uniprot		CellPhoneDB	curated
+DDC	HTR4	HMRbase;uniprot;reactome		CellPhoneDB	curated
+DDC	HTR5A	HMRbase;uniprot;reactome		CellPhoneDB	curated
+DDC	HTR6	uniprot;reactome		CellPhoneDB	curated
+DDC	HTR7	uniprot;reactome		CellPhoneDB	curated
+DDC	TAAR1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+DDC	DRD1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	DRD1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+DDC	DRD2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	DRD2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+DDC	DRD3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	DRD3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+DDC	DRD4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	DRD4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+DDC	DRD5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A1	DRD5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	DRD1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	DRD2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	DRD3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	DRD4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC18A2	DRD5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A3	DRD1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A3	DRD2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A3	DRD3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A3	DRD4	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLC6A3	DRD5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SLITRK1	PTPRD	PMID:29100073;PMID:34966732	PMID:29100073;PMID:34966732	CellPhoneDB	curated
+SLITRK1	PTPRS	PMID:29100073;PMID:34966732	PMID:29100073;PMID:34966732	CellPhoneDB	curated
+SLITRK2	PTPRD	PMID:29100073;PMID:34966732	PMID:29100073;PMID:34966732	CellPhoneDB	curated
+SLITRK2	PTPRS	PMID:29100073;PMID:34966732	PMID:29100073;PMID:34966732	CellPhoneDB	curated
+SLITRK3	PTPRD	PMID:29100073;PMID:34966732	PMID:29100073;PMID:34966732	CellPhoneDB	curated
+SLITRK4	OLR1	Shilts screen - VALIDATED		CellPhoneDB	curated
+SLITRK4	PTPRS	PMID:29100073;PMID:34966732	PMID:29100073;PMID:34966732	CellPhoneDB	curated
+SLITRK5	PTPRS	PMID:29100073;PMID:34966732	PMID:29100073;PMID:34966732	CellPhoneDB	curated
+SLITRK6	PTPRS	PMID:29100073;PMID:34966732	PMID:29100073;PMID:34966732	CellPhoneDB	curated
+SLIT1	ROBO1	uniprot;PMID:10102268		CellPhoneDB	curated
+SLIT2	ROBO1	reactome;uniprot;PMID:10102268		CellPhoneDB	curated
+SLIT2	ROBO2	uniprot;PMID:10102268		CellPhoneDB	curated
+CORT	SSTR1	uniprot;HMRbase;reactome		CellPhoneDB	curated
+CORT	SSTR2	uniprot;HMRbase;reactome		CellPhoneDB	curated
+CORT	SSTR3	uniprot;HMRbase;reactome		CellPhoneDB	curated
+CORT	SSTR4	uniprot;HMRbase;reactome		CellPhoneDB	curated
+CORT	SSTR5	uniprot;HMRbase;reactome		CellPhoneDB	curated
+GH1	GHR	uniprot;HMRbase		CellPhoneDB	curated
+GH2	GHR	uniprot;HMRbase		CellPhoneDB	curated
+SST	SSTR1	uniprot;HMRbase;reactome		CellPhoneDB	curated
+SST	SSTR2	uniprot;HMRbase;reactome		CellPhoneDB	curated
+SST	SSTR3	uniprot;HMRbase;reactome		CellPhoneDB	curated
+SST	SSTR4	uniprot;HMRbase;reactome		CellPhoneDB	curated
+SST	SSTR5	uniprot;HMRbase;reactome		CellPhoneDB	curated
+SHH	BOC	reactome		CellPhoneDB	curated
+SHH	PTCH1	reactome		CellPhoneDB	curated
+SHH	BOC	PMID:25448692	PMID:25448692	CellPhoneDB	curated
+SHH	PTCH2	PMID:25448692	PMID:25448692	CellPhoneDB	curated
+SHH	CDON	reactome		CellPhoneDB	curated
+SHH	CDON	PMID:25448692	PMID:25448692	CellPhoneDB	curated
+SHH	GAS1	reactome		CellPhoneDB	curated
+SHH	GAS1	PMID:25448692	PMID:25448692	CellPhoneDB	curated
+SHH	HHIP	reactome;PMID:10050855;PMID:19561611		CellPhoneDB	curated
+SPX	GALR2	uniprot		CellPhoneDB	curated
+SPX	GPR151	uniprot		CellPhoneDB	curated
+SPX	GALR3	uniprot		CellPhoneDB	curated
+SDC1	ADGRA2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SDC2	ADGRA2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TAC1	TACR1	uniprot;reactome		CellPhoneDB	curated
+TAC1	TACR2	uniprot;reactome		CellPhoneDB	curated
+TAC1	TACR3	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+TAC3	TACR1	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+TAC3	TACR2	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+TAC3	TACR3	uniprot;reactome		CellPhoneDB	curated
+TAFA1	GPR1	uniprot		CellPhoneDB	curated
+TAFA4	FPR1	uniprot		CellPhoneDB	curated
+TAFA5	FPR2	uniprot		CellPhoneDB	curated
+TAFA5	S1PR2	uniprot		CellPhoneDB	curated
+TENM1	ADGRL1	PMID:29100073;PMID:31354411	PMID:29100073;PMID:31354411	CellPhoneDB	curated
+TENM1	ADGRL2	PMID:29100073;PMID:31354411	PMID:29100073;PMID:31354411	CellPhoneDB	curated
+TENM1	ADGRL3	PMID:29100073;PMID:31354411	PMID:29100073;PMID:31354411	CellPhoneDB	curated
+TENM2	ADGRL1	PMID:29100073;PMID:31354411	PMID:29100073;PMID:31354411	CellPhoneDB	curated
+TENM2	ADGRL2	PMID:29100073;PMID:31354411	PMID:29100073;PMID:31354411	CellPhoneDB	curated
+TENM2	ADGRL3	PMID:29100073;PMID:31354411	PMID:29100073;PMID:31354411	CellPhoneDB	curated
+TENM3	ADGRL1	PMID:29100073;PMID:31354411	PMID:29100073;PMID:31354411	CellPhoneDB	curated
+TENM3	ADGRL2	PMID:29100073;PMID:31354411	PMID:29100073;PMID:31354411	CellPhoneDB	curated
+TENM3	ADGRL3	PMID:29100073;PMID:31354411	PMID:29100073;PMID:31354411	CellPhoneDB	curated
+TENM4	ADGRL1	PMID:29100073;PMID:31354411	PMID:29100073;PMID:31354411	CellPhoneDB	curated
+TENM4	ADGRL2	PMID:29100073;PMID:31354411	PMID:29100073;PMID:31354411	CellPhoneDB	curated
+TENM4	ADGRL3	PMID:29100073;PMID:31354411	PMID:29100073;PMID:31354411	CellPhoneDB	curated
+AKR1D1	AR	HMRbase;uniprot		CellPhoneDB	curated
+THBS1	CD36	uniprot		CellPhoneDB	curated
+THBS2	CD36	uniprot		CellPhoneDB	curated
+TAX1BP3	ADGRB1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TAX1BP3	ADGRB2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TBXAS1	TBXA2R	HMRbase;uniprot;reactome		CellPhoneDB	curated
+THY1	ADGRE2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+THY1	ADGRE5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+THY1	ITGAM	PMID:15850796	PMID:15850796	CellPhoneDB	curated
+THY1	ITGB2	PMID:15850796	PMID:15850796	CellPhoneDB	curated
+THY1	ITGAV	PMID:29212879;PMID:18346467;https:www.ncbi.nlm.nih.gov	PMID:29212879;PMID:18346467;https:www.ncbi.nlm.nih.gov	CellPhoneDB	curated
+THY1	ITGB3	PMID:29212879;PMID:18346467;https:www.ncbi.nlm.nih.gov	PMID:29212879;PMID:18346467;https:www.ncbi.nlm.nih.gov	CellPhoneDB	curated
+THY1	ITGAX	PMID:15850796	PMID:15850796	CellPhoneDB	curated
+TF	TFR2	uniprot		CellPhoneDB	curated
+TF	TFRC	uniprot		CellPhoneDB	curated
+TGFA	EGFR	uniprot		CellPhoneDB	curated
+TGFB1	ACVR1	uniprot		CellPhoneDB	curated
+TGFB1	TGFBR2	uniprot		CellPhoneDB	curated
+TGFB1	ITGAV	5ffo;PDB		CellPhoneDB	curated
+TGFB1	ITGB6	5ffo;PDB		CellPhoneDB	curated
+TGFB1	TGFBR1	uniprot		CellPhoneDB	curated
+TGFB1	TGFBR3	uniprot		CellPhoneDB	curated
+TGFB2	ACVR1	uniprot		CellPhoneDB	curated
+TGFB2	TGFBR2	uniprot		CellPhoneDB	curated
+TGFB2	TGFBR1	uniprot		CellPhoneDB	curated
+TGFB2	TGFBR3	uniprot		CellPhoneDB	curated
+TGFB3	ACVR1	uniprot		CellPhoneDB	curated
+TGFB3	TGFBR2	uniprot		CellPhoneDB	curated
+TGFB3	ITGAV	reactome		CellPhoneDB	curated
+TGFB3	ITGB6	reactome		CellPhoneDB	curated
+TGFB3	ITGB8	reactome		CellPhoneDB	curated
+TGFB3	TGFBR1	uniprot		CellPhoneDB	curated
+TGFB3	TGFBR3	uniprot		CellPhoneDB	curated
+DIO3	THRA	HMRbase;uniprot		CellPhoneDB	curated
+TG	THRA	HMRbase;uniprot		CellPhoneDB	curated
+DIO3	THRB	HMRbase;uniprot		CellPhoneDB	curated
+TG	THRB	HMRbase;uniprot		CellPhoneDB	curated
+BTLA	TNFRSF14	PMID:31204070;uniprot	PMID:31204070;uniprot	CellPhoneDB	curated
+CD160	TNFRSF14	PMID:21959263	PMID:21959263	CellPhoneDB	curated
+FASLG	FAS	uniprot		CellPhoneDB	curated
+FASLG	TNFRSF6B	uniprot		CellPhoneDB	curated
+LTA	TNFRSF14	uniprot		CellPhoneDB	curated
+LTA	TNFRSF1A	uniprot		CellPhoneDB	curated
+LTA	TNFRSF1B	uniprot		CellPhoneDB	curated
+TNF	TNFRSF1A	uniprot		CellPhoneDB	curated
+TNF	TNFRSF1B	uniprot		CellPhoneDB	curated
+TNFSF10	TNFRSF10A	uniprot		CellPhoneDB	curated
+TNFSF10	TNFRSF10B	uniprot		CellPhoneDB	curated
+TNFSF10	TNFRSF10C	uniprot		CellPhoneDB	curated
+TNFSF10	TNFRSF10D	uniprot		CellPhoneDB	curated
+TNFSF10	TNFRSF11B	uniprot		CellPhoneDB	curated
+TNFSF11	TNFRSF11A	uniprot		CellPhoneDB	curated
+TNFSF11	TNFRSF11B	uniprot		CellPhoneDB	curated
+TNFSF12	TNFRSF12A	uniprot		CellPhoneDB	curated
+TNFSF12	TNFRSF25	uniprot		CellPhoneDB	curated
+TNFSF13	TNFRSF13B	uniprot		CellPhoneDB	curated
+TNFSF13	TNFRSF17	uniprot		CellPhoneDB	curated
+TNFSF13B	TNFRSF13B	uniprot		CellPhoneDB	curated
+TNFSF13B	TNFRSF13C	uniprot;reactome		CellPhoneDB	curated
+TNFSF13B	TNFRSF17	uniprot		CellPhoneDB	curated
+TNFSF14	LTBR	uniprot		CellPhoneDB	curated
+TNFSF14	TNFRSF14	uniprot		CellPhoneDB	curated
+TNFSF14	TNFRSF6B	uniprot		CellPhoneDB	curated
+TNFSF15	TNFRSF25	reactome		CellPhoneDB	curated
+TNFSF15	TNFRSF6B	uniprot		CellPhoneDB	curated
+TNFSF18	TNFRSF18	uniprot		CellPhoneDB	curated
+TNFSF4	TNFRSF4	uniprot		CellPhoneDB	curated
+TNFSF8	TNFRSF8	uniprot		CellPhoneDB	curated
+TNFSF9	TNFRSF9	uniprot		CellPhoneDB	curated
+UCN	CRHR1	uniprot;reactome		CellPhoneDB	curated
+UCN	CRHR2	uniprot;reactome		CellPhoneDB	curated
+UCN2	CRHR1	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+UCN2	CRHR2	uniprot		CellPhoneDB	curated
+UCN3	CRHR2	uniprot		CellPhoneDB	curated
+UTS2	UTS2R	uniprot;reactome		CellPhoneDB	curated
+UTS2B	UTS2R	uniprot;reactome		CellPhoneDB	curated
+VEGFA	FLT1	uniprot		CellPhoneDB	curated
+VEGFA	KDR	uniprot		CellPhoneDB	curated
+VEGFA	NRP1	uniprot		CellPhoneDB	curated
+VEGFA	NRP2	uniprot		CellPhoneDB	curated
+VEGFB	FLT1	uniprot		CellPhoneDB	curated
+VEGFB	KDR	uniprot		CellPhoneDB	curated
+VEGFB	NRP1	uniprot		CellPhoneDB	curated
+VEGFC	FLT4	uniprot		CellPhoneDB	curated
+VEGFC	KDR	uniprot		CellPhoneDB	curated
+VEGFD	FLT4	uniprot		CellPhoneDB	curated
+VEGFD	KDR	uniprot		CellPhoneDB	curated
+VIP	ADCYAP1R1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+VIP	SCTR	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+VIP	VIPR1	uniprot		CellPhoneDB	curated
+VIP	VIPR2	uniprot		CellPhoneDB	curated
+AVP	AVPR1A	reactome		CellPhoneDB	curated
+AVP	AVPR1B	reactome		CellPhoneDB	curated
+AVP	AVPR2	reactome		CellPhoneDB	curated
+AVP	OXTR	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+VWF	GP1BA	PDB:1m10_partially		CellPhoneDB	curated
+VWF	GP1BB	PDB:1m10_partially		CellPhoneDB	curated
+VWF	ITGAV	uniprot		CellPhoneDB	curated
+VWF	ITGB3	uniprot		CellPhoneDB	curated
+DKK1	LRP5	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+DKK1	LRP6	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+DKK2	LRP6	uniprot;PMID:30035713		CellPhoneDB	curated
+WNT1	CER1	PMID:10067895	PMID:10067895	CellPhoneDB	curated
+WNT1	FRZB	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT1	FZD1	PMID:24032637	PMID:24032637	CellPhoneDB	curated
+WNT1	LRP5	PMID:24032637	PMID:24032637	CellPhoneDB	curated
+WNT1	LRP6	PMID:24032637	PMID:24032637	CellPhoneDB	curated
+WNT1	FZD10	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT1	LRP5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT1	LRP6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT1	FZD2	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT1	FZD3	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT1	FZD4	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT1	FZD5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT1	FZD6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT1	FZD7	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT1	FZD8	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT1	FZD8	reactome;uniprot		CellPhoneDB	curated
+WNT1	RYK	reactome;uniprot		CellPhoneDB	curated
+WNT1	FZD9	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT1	SFRP1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT1	SFRP2	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT1	SFRP4	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT1	SFRP5	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT1	WIF1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT10A	FRZB	PMID:29979633	PMID:29979633	CellPhoneDB	curated
+WNT10A	FZD1	PMID:28733458	PMID:28733458	CellPhoneDB	curated
+WNT10A	LRP5	PMID:28733458	PMID:28733458	CellPhoneDB	curated
+WNT10A	LRP6	PMID:28733458	PMID:28733458	CellPhoneDB	curated
+WNT10A	FZD5	PMID:28733458	PMID:28733458	CellPhoneDB	curated
+WNT10A	FZD7	PMID:28733458	PMID:28733458	CellPhoneDB	curated
+WNT10A	FZD8	PMID:28733458	PMID:28733458	CellPhoneDB	curated
+WNT11	CER1	PMID:10067895	PMID:10067895	CellPhoneDB	curated
+WNT11	FRZB	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT11	FZD1	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT11	LRP5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT11	LRP6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT11	FZD10	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT11	FZD2	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT11	FZD3	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT11	FZD4	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT11	FZD5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT11	FZD6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT11	FZD7	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT11	FZD8	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT11	FZD9	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT11	SFRP1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT11	SFRP2	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT11	SFRP4	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT11	SFRP5	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT11	WIF1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT16	CER1	PMID:10067895	PMID:10067895	CellPhoneDB	curated
+WNT16	FRZB	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT16	FZD1	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT16	LRP5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT16	LRP6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT16	FZD10	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT16	FZD2	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT16	FZD3	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT16	FZD4	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT16	FZD5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT16	FZD6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT16	FZD7	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT16	FZD8	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT16	FZD9	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT16	SFRP1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT16	SFRP2	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT16	SFRP4	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT16	SFRP5	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT16	WIF1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT2	CER1	PMID:10067895	PMID:10067895	CellPhoneDB	curated
+WNT2	FRZB	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT2	FZD1	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT2	LRP5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT2	LRP6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT2	FZD10	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT2	FZD2	PMID:24032637	PMID:24032637	CellPhoneDB	curated
+WNT2	LRP5	PMID:24032637	PMID:24032637	CellPhoneDB	curated
+WNT2	LRP6	PMID:24032637	PMID:24032637	CellPhoneDB	curated
+WNT2	FZD3	PMID:24032637	PMID:24032637	CellPhoneDB	curated
+WNT2	FZD4	PMID:24032637	PMID:24032637	CellPhoneDB	curated
+WNT2	FZD5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT2	FZD6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT2	FZD7	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT2	FZD8	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT2	FZD9	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT2	SFRP1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT2	SFRP2	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT2	SFRP4	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT2	SFRP5	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT2	WIF1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT2B	CER1	PMID:10067895	PMID:10067895	CellPhoneDB	curated
+WNT2B	FRZB	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT2B	FZD1	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT2B	LRP5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT2B	LRP6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT2B	FZD10	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT2B	FZD2	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT2B	FZD3	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT2B	FZD4	PMID:24032637	PMID:24032637	CellPhoneDB	curated
+WNT2B	LRP5	PMID:24032637	PMID:24032637	CellPhoneDB	curated
+WNT2B	LRP6	PMID:24032637	PMID:24032637	CellPhoneDB	curated
+WNT2B	FZD5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT2B	FZD6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT2B	FZD7	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT2B	FZD8	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT2B	FZD9	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT2B	SFRP1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT2B	SFRP2	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT2B	SFRP4	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT2B	SFRP5	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT2B	WIF1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT3	CER1	PMID:10067895	PMID:10067895	CellPhoneDB	curated
+WNT3	FRZB	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT3	FZD1	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT3	LRP5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT3	LRP6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT3	FZD10	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT3	FZD2	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT3	FZD3	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT3	FZD4	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT3	FZD5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT3	FZD6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT3	FZD7	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT3	FZD8	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT3	FZD8	reactome;uniprot;PMID:16116452		CellPhoneDB	curated
+WNT3	RYK	reactome;uniprot;PMID:16116452		CellPhoneDB	curated
+WNT3	FZD9	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT3	SFRP1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT3	SFRP2	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT3	SFRP4	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT3	SFRP5	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT3	WIF1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT3A	CER1	PMID:10067895	PMID:10067895	CellPhoneDB	curated
+WNT3A	FRZB	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT3A	FZD1	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT3A	LRP5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT3A	LRP6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT3A	FZD10	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT3A	FZD2	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT3A	FZD3	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT3A	FZD4	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT3A	FZD5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT3A	FZD6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT3A	FZD7	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT3A	FZD8	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT3A	FZD8	reactome;uniprot		CellPhoneDB	curated
+WNT3A	RYK	reactome;uniprot		CellPhoneDB	curated
+WNT3A	FZD9	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT3A	SFRP1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT3A	SFRP2	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT3A	SFRP4	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT3A	SFRP5	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT3A	WIF1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT4	CER1	PMID:10067895	PMID:10067895	CellPhoneDB	curated
+WNT4	FRZB	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT4	FZD1	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT4	LRP5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT4	LRP6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT4	FZD10	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT4	FZD2	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT4	FZD3	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT4	FZD4	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT4	FZD5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT4	FZD6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT4	FZD7	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT4	FZD8	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT4	FZD9	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT4	SFRP1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT4	SFRP2	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT4	SFRP4	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT4	SFRP5	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT4	WIF1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT5A	CER1	PMID:10067895	PMID:10067895	CellPhoneDB	curated
+WNT5A	FRZB	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT5A	FZD10	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT5A	LRP5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT5A	LRP6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT5A	FZD2	PMID:24032637	PMID:24032637	CellPhoneDB	curated
+WNT5A	LRP5	PMID:24032637	PMID:24032637	CellPhoneDB	curated
+WNT5A	LRP6	PMID:24032637	PMID:24032637	CellPhoneDB	curated
+WNT5A	FZD3	PMID:24032637	PMID:24032637	CellPhoneDB	curated
+WNT5A	FZD4	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT5A	FZD5	PMID:24032637	PMID:24032637	CellPhoneDB	curated
+WNT5A	FZD5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT5A	FZD6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT5A	FZD7	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT5A	FZD8	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT5A	FZD8	reactome;uniprot		CellPhoneDB	curated
+WNT5A	RYK	reactome;uniprot		CellPhoneDB	curated
+WNT5A	FZD9	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT5A	ROR1	uniprot;PMID:27162350		CellPhoneDB	curated
+WNT5A	ROR2	uniprot;reactome		CellPhoneDB	curated
+WNT5A	SFRP1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT5A	SFRP2	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT5A	SFRP4	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT5A	SFRP5	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT5A	WIF1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT5B	CER1	PMID:10067895	PMID:10067895	CellPhoneDB	curated
+WNT5B	FRZB	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT5B	FZD1	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT5B	LRP5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT5B	LRP6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT5B	FZD10	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT5B	FZD2	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT5B	FZD3	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT5B	FZD4	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT5B	FZD5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT5B	FZD6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT5B	FZD7	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT5B	FZD8	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT5B	FZD9	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT5B	SFRP1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT5B	SFRP2	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT5B	SFRP4	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT5B	SFRP5	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT5B	WIF1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT6	CER1	PMID:10067895	PMID:10067895	CellPhoneDB	curated
+WNT6	FRZB	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT6	FZD1	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT6	LRP5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT6	LRP6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT6	FZD10	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT6	FZD2	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT6	FZD3	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT6	FZD4	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT6	FZD5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT6	FZD6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT6	FZD7	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT6	FZD8	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT6	FZD9	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT6	SFRP1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT6	SFRP2	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT6	SFRP4	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT6	SFRP5	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT6	WIF1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT7A	CER1	PMID:10067895	PMID:10067895	CellPhoneDB	curated
+WNT7A	FRZB	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT7A	FZD1	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT7A	LRP5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT7A	LRP6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT7A	FZD10	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT7A	FZD2	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT7A	FZD3	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT7A	FZD4	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT7A	FZD5	PMID:24032637	PMID:24032637	CellPhoneDB	curated
+WNT7A	LRP5	PMID:24032637	PMID:24032637	CellPhoneDB	curated
+WNT7A	LRP6	PMID:24032637	PMID:24032637	CellPhoneDB	curated
+WNT7A	FZD6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT7A	FZD7	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT7A	FZD8	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT7A	FZD9	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT7A	SFRP1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT7A	SFRP2	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT7A	SFRP4	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT7A	SFRP5	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT7A	WIF1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT7B	CER1	PMID:10067895	PMID:10067895	CellPhoneDB	curated
+WNT7B	FRZB	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT7B	FZD1	PMID:24032637	PMID:24032637	CellPhoneDB	curated
+WNT7B	LRP5	PMID:24032637	PMID:24032637	CellPhoneDB	curated
+WNT7B	LRP6	PMID:24032637	PMID:24032637	CellPhoneDB	curated
+WNT7B	FZD10	PMID:24032637	PMID:24032637	CellPhoneDB	curated
+WNT7B	FZD2	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT7B	LRP5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT7B	LRP6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT7B	FZD3	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT7B	FZD4	PMID:24032637	PMID:24032637	CellPhoneDB	curated
+WNT7B	FZD5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT7B	FZD6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT7B	FZD7	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT7B	FZD8	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT7B	FZD9	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT7B	SFRP1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT7B	SFRP2	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT7B	SFRP4	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT7B	SFRP5	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT7B	WIF1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT8A	CER1	PMID:10067895	PMID:10067895	CellPhoneDB	curated
+WNT8A	FRZB	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT8A	FZD1	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT8A	LRP5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT8A	LRP6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT8A	FZD10	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT8A	FZD2	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT8A	FZD3	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT8A	FZD4	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT8A	FZD5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT8A	FZD6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT8A	FZD7	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT8A	FZD8	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT8A	FZD9	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT8A	SFRP1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT8A	SFRP2	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT8A	SFRP4	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT8A	SFRP5	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT8A	WIF1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT8B	CER1	PMID:10067895	PMID:10067895	CellPhoneDB	curated
+WNT8B	FRZB	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT8B	FZD1	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT8B	LRP5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT8B	LRP6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT8B	FZD10	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT8B	FZD2	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT8B	FZD3	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT8B	FZD4	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT8B	FZD5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT8B	FZD6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT8B	FZD7	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT8B	FZD8	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT8B	FZD9	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT8B	SFRP1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT8B	SFRP2	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT8B	SFRP4	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT8B	SFRP5	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT8B	WIF1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT9A	CER1	PMID:10067895	PMID:10067895	CellPhoneDB	curated
+WNT9A	FRZB	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT9A	FZD1	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT9A	LRP5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT9A	LRP6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT9A	FZD10	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT9A	FZD2	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT9A	FZD3	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT9A	FZD4	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT9A	FZD5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT9A	FZD6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT9A	FZD7	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT9A	FZD8	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT9A	FZD9	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT9A	SFRP1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT9A	SFRP2	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT9A	SFRP4	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT9A	SFRP5	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT9A	WIF1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT9B	CER1	PMID:10067895	PMID:10067895	CellPhoneDB	curated
+WNT9B	FRZB	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT9B	FZD1	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT9B	LRP5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT9B	LRP6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT9B	FZD10	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT9B	FZD2	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT9B	FZD3	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT9B	FZD4	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT9B	FZD5	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT9B	FZD6	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT9B	FZD7	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT9B	FZD8	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT9B	FZD9	PMID:24532711	PMID:24532711	CellPhoneDB	curated
+WNT9B	SFRP1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT9B	SFRP2	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT9B	SFRP4	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT9B	SFRP5	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+WNT9B	WIF1	PMID:12775774	PMID:12775774	CellPhoneDB	curated
+DKK1	KREMEN1	reactome;PMID:27524201;PDB:5FWW		CellPhoneDB	curated
+DKK1	LRP6	reactome;PMID:27524201;PDB:5FWW		CellPhoneDB	curated
+DKK1	KREMEN2	reactome		CellPhoneDB	curated
+DKK1	LRP6	reactome		CellPhoneDB	curated
+DKK2	KREMEN2	reactome;PMID:12527209		CellPhoneDB	curated
+DKK2	LRP6	reactome;PMID:12527209		CellPhoneDB	curated
+INHA	ACVR1	PMID:22710174;PMID:22991378	PMID:22710174;PMID:22991378	CellPhoneDB	curated
+INHA	ACVR2A	PMID:22710174;PMID:22991378	PMID:22710174;PMID:22991378	CellPhoneDB	curated
+INHA	ACVR2B	PMID:22710174;PMID:22991378	PMID:22710174;PMID:22991378	CellPhoneDB	curated
+INHA	ACVR1B	PMID:22710174;PMID:22991378	PMID:22710174;PMID:22991378	CellPhoneDB	curated
+INHA	ACVR1C	PMID:22710174;PMID:22991378	PMID:22710174;PMID:22991378	CellPhoneDB	curated
+INHBA	ACVR1	PMID:22710174;PMID:22991378	PMID:22710174;PMID:22991378	CellPhoneDB	curated
+INHBB	ACVR1	PMID:22710174;PMID:22991378	PMID:22710174;PMID:22991378	CellPhoneDB	curated
+INHBC	ACVR2A	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+INHBC	ACVR2B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+INHBE	ACVR2A	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+INHBE	ACVR2B	PMID:22710174	PMID:22710174	CellPhoneDB	curated
+ARTN	GFRA1	uniprot		CellPhoneDB	curated
+ARTN	RET	uniprot		CellPhoneDB	curated
+ARTN	GFRA3	uniprot		CellPhoneDB	curated
+PSPN	GFRA4	uniprot		CellPhoneDB	curated
+PSPN	RET	uniprot		CellPhoneDB	curated
+ITGAV	ADGRE2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+ITGB1	ADGRE2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+ITGAV	ADGRE5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+ITGB1	ADGRE5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+ITGAV	ADGRA2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+ITGB3	ADGRA2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+ITGB3	ADGRE2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+ITGB3	ADGRE5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+ITGAV	ADGRB1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+ITGB5	ADGRB1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+ADIPOQ	ADIPOR1	reactome		CellPhoneDB	curated
+ADIPOQ	ADIPOR2	reactome		CellPhoneDB	curated
+ALB	B2M	PDB:4n0;PDB:4k7		CellPhoneDB	curated
+ALB	FCGRT	PDB:4n0;PDB:4k7		CellPhoneDB	curated
+ALCAM	CD6	Reviewed_in_PMID:23602662		CellPhoneDB	curated
+B2M	IL6ST	Shilts screen - VALIDATED		CellPhoneDB	curated
+CD1B	IL6ST	Shilts screen - VALIDATED		CellPhoneDB	curated
+BAG6	NCR3	activating_interaction_from_uniprot		CellPhoneDB	curated
+BST2	LILRA4	PMID:19564354	PMID:19564354	CellPhoneDB	curated
+CBLN1	GRID2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+NRXN1	GRID2	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+CD1D	LILRB2	PMID:19124746	PMID:19124746	CellPhoneDB	curated
+CD200	CD200R1	PMID:22020332;also_called_CD200_CD200R	PMID:22020332;also_called_CD200_CD200R	CellPhoneDB	curated
+CD226	NECTIN2	integrin_activating_interaction_PMID:15607800;NK_cell_cytotoxicity._PMID:24440149		CellPhoneDB	curated
+CD24	SELP	PMID:9129046	PMID:9129046	CellPhoneDB	curated
+CD248	IL6R	Shilts screen - VALIDATED		CellPhoneDB	curated
+CD274	CD80	PMID:17629517;PMID:18585785;PMC3168865	PMID:17629517;PMID:18585785;PMC3168865	CellPhoneDB	curated
+CD274	PDCD1	integrin_antigen_stimulated_T_cells_become_anergic._PMID:23954143		CellPhoneDB	curated
+CD276	TREML2	uniprot		CellPhoneDB	curated
+CD320	JAML	Shilts screen - VALIDATED		CellPhoneDB	curated
+CD34	SELL	PMID:7692600;PMID:8977216	PMID:7692600;PMID:8977216	CellPhoneDB	curated
+CD34	SELP	PMID:18606703	PMID:18606703	CellPhoneDB	curated
+CD40LG	CD40	Reviewed_in_PMID:23602662		CellPhoneDB	curated
+CD40LG	ITGA2B	PMID:11875495	PMID:11875495	CellPhoneDB	curated
+CD40LG	ITGB3	PMID:11875495	PMID:11875495	CellPhoneDB	curated
+CD40LG	ITGA5	PMC3365732		CellPhoneDB	curated
+CD40LG	ITGB1	PMC3365732		CellPhoneDB	curated
+CD44	SELE	PMC4571854		CellPhoneDB	curated
+CD47	SIRPB1	2jjs;PDB_partially		CellPhoneDB	curated
+CD47	TYROBP	2jjs;PDB_partially		CellPhoneDB	curated
+CD48	CD244	activating_interaction._uniprot_&_PMID:26697006		CellPhoneDB	curated
+CD52	SIGLEC10	PMID:23685786	PMID:23685786	CellPhoneDB	curated
+CD55	ADGRE5	PMID:11297558	PMID:11297558	CellPhoneDB	curated
+CD58	CD2	Reviewed_in_PMID:23602662		CellPhoneDB	curated
+CD70	CD27	activating_interaction_for_NK_and_T_cells._uniprot_&_PMID:26697006		CellPhoneDB	curated
+CD80	CD28	antigen_stimulated_T_cells_become_activated._Reviewed_in_PMID:23954143		CellPhoneDB	curated
+CD80	CTLA4	integrin_antigen_stimulated_T_cells_become_anergic._Reviewed_in_PMID:23954143		CellPhoneDB	curated
+CD80	NGFR	Shilts screen - VALIDATED		CellPhoneDB	curated
+CD86	CD28	integrin_antigen_stimulated_T_cells_become_activated._Reviewed_in_PMID:23954143		CellPhoneDB	curated
+CD86	CTLA4	antigen_stimulated_T_cells_become_anergic._Reviewed_in_PMID:23954143		CellPhoneDB	curated
+CD93	IFNGR1	Shilts screen - VALIDATED		CellPhoneDB	curated
+CD96	NECTIN1	PMID:17971293	PMID:17971293	CellPhoneDB	curated
+CD99	PILRA	PMID:18234675	PMID:18234675	CellPhoneDB	curated
+CHL1	L1CAM	Shilts screen - VALIDATED		CellPhoneDB	curated
+CLCF1	CNTFR	uniprot		CellPhoneDB	curated
+CLCF1	IL6ST	uniprot		CellPhoneDB	curated
+CLCF1	LIFR	uniprot		CellPhoneDB	curated
+CLU	TREM2	uniprot;PMID:27477014		CellPhoneDB	curated
+CLU	TYROBP	uniprot;PMID:27477014		CellPhoneDB	curated
+CNTF	CNTFR	uniprot		CellPhoneDB	curated
+CNTF	IL6ST	uniprot		CellPhoneDB	curated
+CNTF	LIFR	uniprot		CellPhoneDB	curated
+CNTN1	MCAM	Shilts screen - VALIDATED		CellPhoneDB	curated
+CNTN1	NRCAM	Shilts screen - VALIDATED		CellPhoneDB	curated
+CRLF2	IL7R	DOI_10.1038ncomms14937		CellPhoneDB	curated
+CRTAM	CADM1	uniprot		CellPhoneDB	curated
+CSPG4	ITGA3	uniprot		CellPhoneDB	curated
+CSPG4	ITGB1	uniprot		CellPhoneDB	curated
+EPO	EPOR	uniprot		CellPhoneDB	curated
+ERVH48-1	SLC1A5	uniprot		CellPhoneDB	curated
+FBN1	ITGA5	uniprot		CellPhoneDB	curated
+FBN1	ITGB1	uniprot		CellPhoneDB	curated
+FGFR4	TGFBR3	Shilts screen - VALIDATED		CellPhoneDB	curated
+FLT3LG	FLT3	uniprot		CellPhoneDB	curated
+FSHB	FSHR	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+FTH1	SCARA5	uniprot		CellPhoneDB	curated
+FTL	SCARA5	uniprot		CellPhoneDB	curated
+GDNF	GFRA1	uniprot		CellPhoneDB	curated
+GDNF	RET	uniprot		CellPhoneDB	curated
+GP1BA	ITGAM	PMC2194217		CellPhoneDB	curated
+GP1BA	ITGB2	PMC2194217		CellPhoneDB	curated
+GPHA2	TSHR	uniprot;HMRbase;reactome		CellPhoneDB	curated
+GPHB5	TSHR	uniprot;HMRbase;reactome		CellPhoneDB	curated
+HEBP1	FPR3	reactome		CellPhoneDB	curated
+HFE	TFRC	uniprot		CellPhoneDB	curated
+HGF	MET	uniprot		CellPhoneDB	curated
+ICOSLG	ICOS	important_for_T_follicular_helper_cells_(Tfh)_and_type_2_T_helper_cell_(Th2)_responses._Reviewed_in_PMID:23954143		CellPhoneDB	curated
+JAG1	CD46	PMID:23086448	PMID:23086448	CellPhoneDB	curated
+JAG1	VASN	Shilts screen - VALIDATED		CellPhoneDB	curated
+JAG2	VASN	Shilts screen - VALIDATED		CellPhoneDB	curated
+KISS1	KISS1R	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+KITLG	KIT	uniprot		CellPhoneDB	curated
+KLRB1	CLEC2D	Induces_NK_Cell_Inhibition._Reviewed_in_PMID:24223577		CellPhoneDB	curated
+LAIR1	LILRB4	PMID:19283782	PMID:19283782	CellPhoneDB	curated
+LAMA2	ADGRG6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+LCK	CD8A	1q69;PDB_partially		CellPhoneDB	curated
+LCK	CD8B	1q69;PDB_partially		CellPhoneDB	curated
+LCN2	SLC22A17	uniprot;reactome		CellPhoneDB	curated
+LEP	LEPR	uniprot		CellPhoneDB	curated
+LHB	LHCGR	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+LIF	IL6ST	1pvh;PDB_partially		CellPhoneDB	curated
+LIF	LIFR	1pvh;PDB_partially		CellPhoneDB	curated
+LRPAP1	SORT1	uniprot		CellPhoneDB	curated
+MADCAM1	ITGA4	uniprot		CellPhoneDB	curated
+MADCAM1	ITGB7	uniprot		CellPhoneDB	curated
+MICA	HCST	1hyr;PDB_partially;Induces_NK_Cell_Activation._Reviewed_in_PMID:24223577		CellPhoneDB	curated
+MICA	KLRK1	1hyr;PDB_partially;Induces_NK_Cell_Activation._Reviewed_in_PMID:24223577		CellPhoneDB	curated
+MICB	HCST	Induces_NK_Cell_Activation._Reviewed_in_PMID:24223577		CellPhoneDB	curated
+MICB	KLRK1	Induces_NK_Cell_Activation._Reviewed_in_PMID:24223577		CellPhoneDB	curated
+MLN	MLNR	reactome;uniprot		CellPhoneDB	curated
+MMP2	ITGAV	uniprot		CellPhoneDB	curated
+MMP2	ITGB3	uniprot		CellPhoneDB	curated
+MST1	MST1R	PMID:23792360	PMID:23792360	CellPhoneDB	curated
+NCR3LG1	NCR3	activating_interaction_from_uniprot		CellPhoneDB	curated
+NDP	FZD4	https:ghr.nlm.nih.govgeneNDP		CellPhoneDB	curated
+NDP	LRP5	https:ghr.nlm.nih.govgeneNDP		CellPhoneDB	curated
+NELL2	ROBO3	reactome		CellPhoneDB	curated
+NSMF	GNRHR	uniprot;HMRbase		CellPhoneDB	curated
+NXNL1	BSG	uniprot;PMID:25957687		CellPhoneDB	curated
+NXNL1	SLC16A1	uniprot;PMID:25957687		CellPhoneDB	curated
+OMD	ITGAV	uniprot		CellPhoneDB	curated
+OMD	ITGB3	uniprot		CellPhoneDB	curated
+PDCD1LG2	PDCD1	antigen_stimulated_T_cells_become_anergic._PMID:23954143		CellPhoneDB	curated
+PECAM1	CD38	PMID:9551996;PMID:26407101	PMID:9551996;PMID:26407101	CellPhoneDB	curated
+PENK	GHSR	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+PF4	CXCR3	PMID:24218476	PMID:24218476	CellPhoneDB	curated
+PI16	TNFRSF21	Shilts screen - VALIDATED		CellPhoneDB	curated
+PLG	ITGA2B	uniprot		CellPhoneDB	curated
+PLG	ITGB3	uniprot		CellPhoneDB	curated
+PPIA	BSG	reactome		CellPhoneDB	curated
+PRNP	ADGRG6	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+PROC	PROCR	reactome		CellPhoneDB	curated
+PRXL2B	PTGFR	HMRbase;uniprot;reactome		CellPhoneDB	curated
+PTGIS	PTGIR	HMRbase;uniprot;reactome		CellPhoneDB	curated
+PTPRC	CD22	PMID:12115612	PMID:12115612	CellPhoneDB	curated
+PTPRC	MRC1	PMID:27601670;PMID:10575006	PMID:27601670;PMID:10575006	CellPhoneDB	curated
+PTPRD	IL1RAP	PMID:29100073;PMID:34966732	PMID:29100073;PMID:34966732	CellPhoneDB	curated
+PTPRD	IL1RAPL1	PMID:29100073;PMID:34966732	PMID:29100073;PMID:34966732	CellPhoneDB	curated
+PTPRS	NTRK3	reactome		CellPhoneDB	curated
+QRFP	QRFPR	GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/)		CellPhoneDB	curated
+RBP4	STRA6	uniprot		CellPhoneDB	curated
+REN	ATP6AP2	uniprot;HMRbase;_PMID:12045255		CellPhoneDB	curated
+RNASET2	TLR8	uniprot		CellPhoneDB	curated
+RTN4R	ADGRB1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SAA1	FPR2	reactome		CellPhoneDB	curated
+SFTPD	ADGRE5	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+SIGLEC15	CD44	PMID:31900164	PMID:31900164	CellPhoneDB	curated
+SPN	SIGLEC1	PMID:11238599	PMID:11238599	CellPhoneDB	curated
+TGM2	ADGRG1	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+THPO	MPL	uniprot		CellPhoneDB	curated
+TPO	THRB	HMRbase;uniprot		CellPhoneDB	curated
+TRH	TRHR	uniprot;HMRbase;reactome		CellPhoneDB	curated
+TSHB	TSHR	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+TSLP	CRLF2	PDB:5j11		CellPhoneDB	curated
+TSLP	IL7R	PDB:5j11		CellPhoneDB	curated
+TULP1	TYRO3	uniprot		CellPhoneDB	curated
+UNC5A	ADGRL3	uniprot;reactome;IUPHAR		CellPhoneDB	curated
+CD177	PECAM1	PMID:17580308	PMID:17580308	CellPhoneDB	curated
+CD47	SIRPA	Reviewed_in_PMID:23602662		CellPhoneDB	curated
+CD47	SIRPG	PMID:15294972	PMID:15294972	CellPhoneDB	curated
+DAG1	NRXN3	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+HLA-E	VSIR	Shilts screen - VALIDATED		CellPhoneDB	curated
+HLA-F	VSIR	Shilts screen - VALIDATED		CellPhoneDB	curated
+NLGN4Y	NRXN3	PMID:29100073	PMID:29100073	CellPhoneDB	curated
+PVR	KIR2DL5A	Shilts screen - VALIDATED		CellPhoneDB	curated
+SDC2	FGFR4	Shilts screen - VALIDATED		CellPhoneDB	curated
+SEMA4D	PLXNB3	Shilts screen - VALIDATED		CellPhoneDB	curated
+CD44	TYROBP	PMID:31900164	PMID:31900164	CellPhoneDB	curated

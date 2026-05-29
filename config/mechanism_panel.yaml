@@ -1,0 +1,151 @@
+mechanism_axes:
+  ifn_immune_recruitment:
+    - IRF1
+    - CXCL9
+    - CXCL10
+    - CXCL11
+    - CXCR3
+    - HLA-A
+    - HLA-B
+    - HLA-C
+    - TAP1
+    - TAP2
+    - NLRC5
+    - B2M
+    - STAT1
+  stromal_remodeling:
+    - CREB3L1
+    - THBS2
+    - COL1A1
+    - COL1A2
+    - COL3A1
+    - COL5A1
+    - SPP1
+    - ITGA4
+    - ITGB1
+    - TGFB1
+    - FN1
+    - SPARC
+  hla_g_spp1_niche:
+    - HLA-G
+    - SPP1
+    - APOE
+    - LILRB1
+    - LILRB2
+    - LGALS3
+    - CSF1R
+    - CD163
+  hypoxia_regulon:
+    - HIF1A
+    - VEGFA
+    - CA9
+    - LDHA
+    - ENO1
+    - SLC2A1
+    - PDK1
+    - BNIP3
+    - BHLHE40
+  invasion_front_local_invasion:
+    - CXCL12
+    - CXCR4
+    - MMP2
+    - MMP9
+    - FN1
+    - PLAU
+    - PLAUR
+    - EPCAM
+    - VIM
+    - ITGA6
+    - ETV4
+    - KLF4
+  epithelial_stem_like_state:
+    - EPCAM
+    - ITGA6
+    - KRT8
+    - KRT18
+    - LAMC2
+    - CLDN1
+    - KRT19
+    - CDX2
+    - ASCL2
+    - SOX9
+  antigen_presentation_cytotoxicity:
+    - HLA-A
+    - HLA-B
+    - HLA-C
+    - B2M
+    - TAP1
+    - TAP2
+    - PSMB8
+    - PSMB9
+    - GZMA
+    - PRF1
+    - NKG7
+  angiogenesis_vascular_remodeling:
+    - VEGFA
+    - ANGPT1
+    - TEK
+    - KDR
+    - COL18A1
+    - VWF
+    - EMCN
+    - FLT1
+  myeloid_immunosuppression:
+    - SPP1
+    - APOE
+    - CSF1R
+    - TREM2
+    - CCL2
+    - IL1B
+    - LGALS3
+    - CXCL8
+  ccc_tgfb_stromal_axis:
+    - TGFB1
+    - TGFBR1
+    - TGFBR2
+    - SMAD2
+    - SMAD3
+    - COL1A1
+    - COL1A2
+    - FN1
+  ccc_spp1_macrophage_axis:
+    - SPP1
+    - CD44
+    - ITGA4
+    - ITGB1
+    - APOE
+    - TREM2
+    - CSF1R
+    - LGALS3
+  ccc_cxcl_immune_recruitment_axis:
+    - CXCL9
+    - CXCL10
+    - CXCL11
+    - CXCR3
+    - CCL2
+    - CCR2
+    - CXCL8
+    - CXCR1
+    - CXCR2
+  ccc_vegf_angiogenesis_axis:
+    - VEGFA
+    - VEGFB
+    - KDR
+    - FLT1
+    - VWF
+    - EMCN
+    - ANGPT2
+  ccc_mif_cd74_axis:
+    - MIF
+    - CD74
+    - CXCR4
+    - CXCR2
+    - HLA-DRA
+    - HLA-DRB1
+  ccc_notch_jag_axis:
+    - JAG1
+    - JAG2
+    - NOTCH1
+    - NOTCH2
+    - HES1
+    - HEY1

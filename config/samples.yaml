@@ -1,0 +1,23 @@
+sample_to_gsm:
+  P1CRC: GSM8594567
+  P2CRC: GSM8594568
+  P5CRC: GSM8594569
+  P3NAT: GSM8594570
+  P5NAT: GSM8594571
+sample_groups:
+  crc:
+    - P1CRC
+    - P2CRC
+    - P5CRC
+  nat:
+    - P3NAT
+    - P5NAT
+canonical_file_order:
+  - filtered_feature_bc_matrix.h5
+  - Metadata.parquet.gz
+  - scalefactors_json.json.gz
+  - tissue_lowres_image.png.gz
+  - tissue_positions.parquet.gz
+notes:
+  - Prefer no-prefix filenames as canonical local names.
+  - If a file is missing, loader falls back to GSM-prefixed equivalent.

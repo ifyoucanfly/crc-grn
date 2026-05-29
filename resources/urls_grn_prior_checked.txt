@@ -1,0 +1,4 @@
+https://omnipathdb.org/interactions?datasets=collectri&genesymbols=1&fields=sources,references,curation_effort,consensus_direction,consensus_stimulation,consensus_inhibition&format=tsv
+https://omnipathdb.org/interactions?datasets=tf_target&resources=TRRUST&genesymbols=1&fields=sources,references,curation_effort,consensus_direction,consensus_stimulation,consensus_inhibition&format=tsv
+https://omnipathdb.org/interactions?datasets=omnipath&types=post_translational&genesymbols=1&fields=sources,references,curation_effort,consensus_direction,consensus_stimulation,consensus_inhibition&format=tsv
+https://omnipathdb.org/intercell?genesymbols=1&format=tsv

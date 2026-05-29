@@ -1,0 +1,10 @@
+source_genesymbol	target_genesymbol	consensus_stimulation	consensus_inhibition	references	sources
+STAT3	CXCL8	1	0	demo_ref	CollecTRI
+STAT3	MMP9	1	0	demo_ref	CollecTRI
+STAT3	IL6	1	0	demo_ref	CollecTRI
+MYC	MKI67	1	0	demo_ref	CollecTRI
+MYC	CD44	1	0	demo_ref	CollecTRI
+MYC	EPCAM	1	0	demo_ref	CollecTRI
+JUN	VIM	1	0	demo_ref	CollecTRI
+JUN	COL1A1	1	0	demo_ref	CollecTRI
+JUN	CXCL12	1	0	demo_ref	CollecTRI

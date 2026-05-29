@@ -1,0 +1,2 @@
+database,n_pairs,status
+existing_ligand_receptor_human.tsv,2699,reused_existing_valid_prior
